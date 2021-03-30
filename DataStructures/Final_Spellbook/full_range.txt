@@ -1,0 +1,2865 @@
+long (400 ft. + 40 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+10 ft.
+10 ft.
+close (25 ft. + 5 ft./2 levels)
+10 ft.
+unlimited
+touch
+touch
+personal
+personal
+touch
+touch
+personal
+touch
+50 ft.
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+personal
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+40 ft.
+close (25 ft. + 5 ft./2 levels)
+50 ft.
+touch
+touch
+touch
+medium (100 ft. + 10 ft./level)
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+15 ft.
+medium (100 ft. + 10 ft./level)
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+touch
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+medium (100 ft. + 10 ft./level)
+long (400 ft. + 40 ft./level)
+medium (100 ft. + 10 ft./level)
+20 ft.
+0 ft.
+medium (100 ft. + 10 ft./level)
+15 ft.
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+personal
+60 ft.
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+2 miles
+40 ft./level
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)/100 ft.; see text
+30 ft.
+medium (100 ft. + 10 ft./level)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+medium (100 ft. + 10 ft./level)
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+touch
+touch
+30 ft.
+touch
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+touch
+see text
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+60 ft.
+60 ft.
+60 ft.
+60 ft.
+60 ft.
+close (25 ft. + 5 ft./2 levels)
+40 ft.
+60 ft.
+60 ft.
+60 ft.
+60 ft.
+40 ft.
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+long (400 ft. + 40 ft./level)
+see text
+close (25 ft. + 5 ft./2 levels)
+unlimited
+personal
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+touch
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+unlimited
+touch
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+personal
+personal
+personal
+personal
+medium (100 ft. + 10 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+medium (100 ft. + 10 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+touch; see text
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+personal or touch
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+medium (100 ft. + 10 ft./level)
+touch
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+0 ft.
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+medium (100 ft. + 10 ft. level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+personal or touch
+personal
+personal
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels) or see text
+personal or touch
+long (400 ft. + 40 ft./level)
+touch
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+medium (100 ft. + 10 ft./level)
+10 ft.
+10 ft.
+touch
+touch
+touch
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+anywhere within the area to be warded
+touch
+60 ft.
+touch
+long (400 ft. + 40 ft./level)
+medium (100 ft. + 10 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+5 miles
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+20 ft.
+medium (100 ft. + 10 ft./level)
+touch
+40 ft.
+long (400 ft. + 40 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+60 ft.
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+medium (100 ft. + 10 ft./level)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+personal or touch
+personal or touch
+long (400 ft. + 40 ft./level)
+personal
+
+personal
+0 ft.
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+personal
+personal
+personal or close (25 ft. + 5 ft./2 levels)
+touch
+120 ft.
+see text
+touch
+long (400 ft. + 40 ft./level)
+long (400 ft. + 40 ft./level)
+personal
+medium (100 ft. + 10 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+0 ft.
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+10 ft.
+medium (100 ft. + 10 ft./level)
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+long (400 ft. + 40 ft./level)
+see text
+long (400 ft. + 40 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+touch
+unlimited
+touch
+touch
+20 ft.
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+see text
+long (400 ft. + 40 ft./level)
+long (400 ft. + 40 ft./level)
+medium (100 ft. + 10 ft./level)
+0 ft.
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels); see text
+close (25 ft. + 5 ft./2 levels); see text
+close (25 ft. + 5 ft./2 levels); see text
+touch
+see text
+personal
+personal
+personal
+touch
+medium (100 ft. + 10 ft./level)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+40 ft.
+10 ft.
+10 ft.
+60 ft.
+close (25 ft. + 5 ft./2 levels)
+1 mile
+0 ft.
+long (400 ft. + 40 ft./level)
+medium (100 ft. + 10 ft./level)
+touch
+touch
+touch
+touch
+touch
+touch
+10 ft.
+long (400 ft. + 40 ft./level)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+60 ft.
+10 ft.
+60 ft.
+up to 10 ft./level
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+touch
+touch
+touch
+medium (100 ft. + 10 ft./level)
+personal
+touch
+touch
+touch
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+see text
+see text
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+see text
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+see text
+touch
+touch
+see text
+see text
+see text
+see text
+see text
+touch
+medium (100 ft. + 10 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+20 ft.
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+30 ft.
+60 ft.
+long (400 ft. + 40 ft./level)
+long (400 ft. + 40 ft./level)
+0 ft.
+touch
+medium (100 ft. + 10 ft./level)
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft. level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+10 ft.
+personal
+medium (100 ft. + 10 ft./level)
+touch
+touch
+touch
+touch
+personal
+touch
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+medium (100 ft. + 10 ft./level)
+touch
+touch
+personal
+medium (100 ft. + 10 ft./level)
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+0 ft.
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+60 ft.
+long (400 ft. + 40 ft./level)
+0 ft.; see text
+0 ft.; see text
+0 ft.; see text
+0 ft.; see text
+0 ft.; see text
+0 ft.; see text
+0 ft.; see text
+0 ft.; see text
+touch
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal and touch
+personal and touch
+touch
+0 ft.
+touch
+personal
+20 ft.
+touch
+touch
+touch
+personal
+long (400 ft. + 40 ft./level)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+unlimited
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+touch
+touch
+personal
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+20 ft.
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+60 ft.
+30 ft.
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+long (400 ft. + 40 ft./level)
+1 mile/level
+touch
+medium (100 ft. + 10 ft./level)
+see text
+touch
+unlimited
+40 ft.
+personal
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+Short (25 ft. + 5 ft./2 levels)
+Long (400 ft. + 40 ft./level)
+5 ft.
+medium (100 ft. + 10 ft./level)
+0 ft.
+30 ft.
+medium (100 ft. + 10 ft./level)
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+1 mile
+see text
+touch
+touch
+touch
+personal
+personal
+medium (100 ft. + 10 ft./level)
+touch
+touch
+touch
+touch
+touch
+long (400 ft. + 40 ft./level)
+see text
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./level)
+touch
+close (25 ft. + 5 ft./level)
+medium (100 ft. + 10 ft./level)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./level)
+touch
+touch
+touch
+touch
+medium (100 ft. + 10 ft./level)
+personal
+touch
+touch
+personal
+touch
+medium (100 ft. + 10 ft./level)
+personal
+long (400 ft. + 40 ft./level)
+personal
+personal
+personal
+personal
+personal
+medium (100 ft. + 10 ft./level)
+touch
+medium (100 ft. + 10 ft./level)
+5 ft.
+touch
+
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+personal
+touch
+personal
+personal
+touch
+personal
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+see description
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+personal
+long (400 ft. + 40 ft./level)
+personal
+5 ft.
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+30 ft.
+close (25 ft. + 5 ft./2 levels)
+10 ft. or 30 ft.
+touch
+personal
+touch
+30 ft. or 60 ft.
+medium (100 ft. + 10 ft./level)
+long (400 ft. + 40 ft./level)
+personal
+personal
+personal
+personal
+long (400 ft. + 40 ft./level)
+50 ft./level
+touch
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft/2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+15 ft.
+special; see text
+special; see text
+special; see text
+60 ft.
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+personal
+10 ft.
+close (25 ft. + 5 ft./2 levels)
+
+close (25 ft. + 5 ft./2 levels)
+unlimited
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+30 ft.
+personal
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+60 ft.
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+personal
+long (400 ft. + 40 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+30 ft.
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch and unlimited; see text
+medium (100 ft. + 10 ft./level)
+90 ft.
+medium (100 ft. + 10 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+10 ft.
+5 ft.
+20 ft.
+medium (100 ft. + 10 ft./level)
+touch
+touch
+touch
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+20 ft.
+touch
+120 ft.
+touch; see text
+touch
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+30 ft.
+touch
+personal
+40 ft.
+touch
+personal
+long (400 ft. + 40 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+30 ft.
+medium (100 ft. + 10 ft./level)
+touch
+touch
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+personal
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+personal
+30 ft.
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+personal
+15 ft.
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+touch
+touch
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+personal
+medium (100 ft. + 10 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+personal or 5 ft.; see text
+0 ft.
+close (25 ft. + 5 ft./2 levels)
+personal
+long (400 ft. + 40 ft./level)
+120 ft.
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+personal
+see text
+personal
+touch or 5 ft.; see text
+medium (100 ft. + 10 ft./level)
+20 ft.
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+medium (100 ft. + 10 ft./level)
+personal
+touch
+touch
+touch
+touch
+touch
+personal
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+unlimited
+close (25 ft. + 5 ft./2 levels)
+touch
+60 ft.
+touch
+personal
+personal
+personal
+personal
+touch
+touch
+touch
+medium (100 ft. + 10 ft./level)
+touch
+20 ft.
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+personal and close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+medium (100ft. +10ft./level)
+touch
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+30 ft.
+15 ft.
+medium (100 ft. + 10 ft./level)
+30 ft.
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+0 ft.
+0 ft.
+0 ft.
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+touch
+touch
+personal
+personal
+touch
+medium (100 ft. + 10 ft./level)
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+personal
+personal
+medium (100 ft. + 10 ft./level)
+
+touch
+close (25 ft. +5 ft./2 levels)
+close (25 ft. +5 ft./2 levels)
+close (25 feet + 5 feet/2 levels)
+touch
+medium (100 ft. + 10 ft./level)
+touch
+touch
+close (25 ft. +5 ft./2 levels)
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+20 ft.
+touch
+medium (100 ft. + 10 ft./level)
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+long (400 ft. + 40 ft./level)
+0 ft.
+medium (10 ft. + 10 ft./level)
+medium (10 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+personal and touch
+touch
+touch
+60 ft.
+touch
+personal
+close (25 ft + 5 ft./2 levels)
+personal
+medium (100 ft. +10 ft./level)
+touch
+touch
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+close (20 ft.)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+touch
+touch
+personal
+personal
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+touch
+close (25 ft. +5 ft./2 levels)
+medium (100 ft. + 10ft./level)
+touch
+medium (100 ft. + 10 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+touch
+touch
+touch
+personal
+touch
+touch
+touch
+medium (100 ft. + 10 ft./level)
+touch
+medium (100 ft. + 10 ft./level)
+close (25 ft. +5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+0 ft.
+close (25 ft. + 5 ft./2 levels)
+touch
+0 ft.
+personal
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+you
+0 ft.; see text
+0 ft.; see text
+0 ft.; see text
+0 ft.; see text
+0 ft.; see text
+0 ft.; see text
+0 ft.; see text
+0 ft.; see text
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+personal
+personal
+medium (100 ft. + 10 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+touch
+personal
+medium (100 ft. + 10 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+30 ft.
+close (25 ft. + 5 ft./two levels)
+long (400 ft. + 40 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+10 ft.
+touch
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+touch
+touch
+touch
+personal
+close (25 ft. + 5 ft/2 levels)
+personal
+20 ft.
+10 ft.
+personal
+personal
+close (25 ft. + 5ft./2 levels)
+30 feet
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch or reach of melee weapon
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+5 feet
+touch
+medium (100 ft. +5 ft./level)
+close (25 ft. + 5 ft./2 levels)
+personal
+20 ft.
+personal
+short (25 ft. + 5 ft./2 levels)
+0 ft.
+30 ft.
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+medium (100 ft. + 10 ft./level)
+10 ft.
+one potion
+touch
+long (400 ft. + 40 ft./level)
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+
+personal
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+personal
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+touch
+touch
+personal
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+personal
+personal
+medium (100 ft. + 10 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+personal
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+Personal
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+medium (100 ft. + 10 ft./level)
+personal
+touch
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+personal
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+50 ft.
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+30 ft.
+0 ft.
+10 ft.
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+touch
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+0 ft.; see text
+30 ft.
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+30 ft.
+personal
+personal
+touch
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+20 ft.
+20 ft.
+personal
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+long (400 ft. + 40 ft./level)
+touch
+see text
+long (400 ft. + 40 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+short (25 ft. + 5 ft./2 levels)
+personal
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+personal
+touch
+short (25 ft. +5 ft. 2/levels)
+close (25 ft. + 5 ft./2 levels)
+unlimited
+0 ft.
+personal
+close (25 ft. + 5 ft./2 levels)
+personal (half-elf only)
+personal
+personal
+personal
+0 ft.
+touch
+personal
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+medium (100 ft. + 10 ft./level)
+long (400 ft. + 40 ft./level)
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+personal or 5 ft.; see text
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 level)
+medium (100 ft. + 10 ft./level)
+
+20 ft.
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+medium (100 ft. + 10 ft./level)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+0 ft.
+touch
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+medium (100 ft. + 10 ft./level)
+touch
+100 ft.
+touch
+personal
+personal
+touch
+touch
+
+personal
+touch
+personal
+300 ft.
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+touch
+touch
+touch
+touch
+touch
+touch
+0 ft.
+personal
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+Close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+touch
+touch
+touch
+medium (100 ft. + 10 ft./level)
+close (25 feet + 5 feet/level)
+touch
+touch
+touch
+personal
+60 ft.
+touch
+touch
+touch
+touch
+medium (100 ft. + 10 ft./level)
+see text
+touch
+touch
+touch
+personal
+30 ft.
+close (25 ft. + 5 ft./2 levels)
+personal (see text)
+touch
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+touch
+60 ft.
+close (25 ft. + 5 ft./level)
+close (25 ft. + 5 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+Medium (100 ft. + 10 ft./level)
+touch
+personal
+personal
+personal
+30 ft.
+long (400 ft. + 40 ft./level)
+short (25 ft. + 5 ft./level)
+touch
+30 ft.
+40 ft.
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+long (400 ft. + 40 ft./level)
+touch
+personal and see text
+close (25 ft. + 5 ft./2 levels)
+personal
+medium (100 ft. + 10 ft./level)
+personal
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft. level)
+
+touch
+touch
+touch
+touch
+1 hex
+1 hex
+1 hex
+touch or medium (100 ft. + 10 ft./level) (see text)
+personal
+close (25 ft. + 5 ft./level)
+personal
+personal
+close (25 ft. + 5 ft./level)
+medium (100 ft. + 10 ft./level)
+touch
+medium (100 ft. + 10 ft./level)
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+touch
+personal
+personal
+personal
+5 feet
+personal
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+60 ft.
+touch
+touch
+medium (100 ft. + 10 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+100 feet
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+long (400 ft. + 100 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+0 ft.; see text
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+40 ft.
+medium (100 ft. + 10 ft./level)
+20 ft.
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+medium (100 ft. + 10 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+personal; see text
+personal
+50 ft.
+close (25 ft. + 5 ft./2 levels)
+
+personal
+touch
+personal
+Medium (100 ft. + 10 ft./level) or see text
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+0 ft.
+touch
+
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+0 ft.; see text
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+personal
+touch
+30 ft.
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+personal
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+0 ft.; see text
+0 ft.; see text
+personal
+touch
+long (400 ft. + 40 ft./level)
+personal
+medium (100 ft. + 10 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+40 ft.
+personal
+personal
+touch
+touch
+see text
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+close 25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+60 ft.
+close (25 ft. + 5 ft./2 levels)
+30 ft.
+30 ft.
+see text
+touch
+10 ft.
+close (25 ft. + 5 ft./2 levels)
+120 ft.
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+touch
+10 ft.
+touch
+touch
+medium (100 ft. + 10 ft./level)
+touch
+touch
+touch
+60 ft.
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+15 ft.
+personal
+personal
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+10 ft.
+personal
+30 ft.
+medium (100 ft. + 10 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+touch
+0 ft. or 10 ft./level
+touch
+touch
+personal
+touch
+personal
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+5 ft.
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+medium (100 ft. + 10 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+60 ft.
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+personal
+personal
+30 ft.
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+30 ft.
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+0 ft.
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+5 ft.
+personal
+personal
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+touch (see text)
+touch (see text)
+personal
+personal
+personal
+20 ft.
+close (25 ft. +5 ft./2 levels)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+0 ft.
+personal
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+15 ft.
+close (25 ft. + 5 ft./2 levels)
+personal
+15 ft.
+10 ft. (see text)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+personal
+touch
+touch
+0 ft.; see text
+0 ft.
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+60 ft.
+30 ft.
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal and 30 ft. (see text)
+0 ft.
+medium (100 ft. + 10 ft./level)
+personal
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+personal
+0 ft.
+0 ft.
+0 ft.
+personal
+touch
+long (400 ft. + 40 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 2 ft./level)
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+touch
+personal (see text)
+100 ft.
+touch
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+1 mile/level
+long (400 ft. + 40 ft./level)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+20 ft.
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+touch
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+medium (100 ft. + 10 ft./level)
+touch
+medium (100 ft. + 10 ft./level)
+touch
+touch
+0 ft. (see text)
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+5 ft.
+personal
+touch
+0 ft.
+touch
+personal
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+20 ft.
+close (25 ft. + 5 f t./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+long (400 ft. + 40 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./ 2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./level)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels) or touch; see text
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+touch
+medium (100 ft. + 10 ft./level)
+touch
+touch
+15 ft.
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+medium (100 ft. + 10 ft./level)
+personal
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+medium (100 ft. + 10 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+10 ft.
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./level)
+medium (100 ft. + 10 ft./level)
+5 ft.
+60 ft.
+40 ft.
+personal
+unlimited
+unlimited
+touch
+touch
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+0 ft.
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+20 ft.
+20 ft.
+20 ft.
+personal
+personal
+personal
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+touch
+touch
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+
+close (25 ft. + 5 ft./2 levels)
+touch
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+medium (100 ft. + 10 ft./level)
+touch
+see text
+personal
+personal
+medium (100 ft. + 10 ft./level)
+close (25 ft. +5 ft./2 levels)
+close (25 ft. +5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+personal
+touch
+touch
+30 ft.
+30 ft.
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+
+medium (100 ft. + 10 ft./level)
+personal
+touch
+touch
+personal
+personal
+personal
+personal
+personal
+personal
+10 ft.
+10 ft.
+10 ft.
+10 ft.
+10 ft.
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+personal
+long (400 ft. + 40 ft./level)
+medium (100 ft. + 10 ft./level)
+long (400 ft. + 40 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+1 mile/level
+medium (100 ft. + 10 ft./level)
+long (400 ft. + 40 ft./level)
+30 feet
+medium (100 ft. + 10 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+medium (100 ft. + 10 ft./level)
+long (400 ft. + 40 ft./level)
+0 ft.
+touch
+personal and touch
+medium (100 ft. + 10 ft./level)
+touch
+medium (100 ft. + 10 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+personal
+close (25 ft. + 5 ft./level)
+personal
+touch
+personal
+touch
+personal
+touch
+touch
+touch
+medium (100 ft. + 10 ft./level)
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+touch
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+personal
+see text
+see text
+see text
+see text
+60 ft.
+touch
+personal
+personal
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+long (400 ft. + 40 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+0 ft.
+close (25 ft. + 5 ft./2 levels)
+0 ft.
+medium (100 ft. + 10 ft./level)
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+Medium (100 ft. + 10 ft./level)
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+Medium (100 ft. plus 10 ft./level)
+10 ft.
+touch
+medium (100 ft. plus 10 ft./level)
+personal
+close (25 ft. plus 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+touch
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+long (400 ft. + 40 ft./level)
+touch
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./level)
+see text
+see text
+close (25 ft. + 5 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft.+ 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+long (400 ft. + 40 ft./level)
+30 ft.
+close (25 ft. + 5 ft./2 levels)
+30 ft.
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. plus 40 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+personal
+60 ft.
+60 ft.
+60 ft.
+60 ft.
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+touch
+touch
+touch
+see text
+touch
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+1 object touched
+see text
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+up to 1 mile/level; see text
+close (25 ft. + 5 ft./2 levels)
+200 ft./level
+medium (100 ft. + 10 ft./level)
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+see text
+personal
+close (25 ft. + 5 ft./2 levels)
+see text
+touch
+long (400 ft. + 40 ft./level)
+long (400 ft. + 40 ft./level)
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+medium (100 ft. plus 10 ft./level)
+40 feet
+close (25 ft. + 5 ft./2 levels)
+personal and touch
+long (400 ft. + 40 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+medium (100 ft. + 10 ft./level)
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+short (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+close (25 ft. plus 5 ft./2 levels)
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 level)
+personal
+close (25 ft. + 5 ft./2 levels); see text
+touch
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+0 feet; see text
+touch
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+unlimited
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+
+touch
+personal
+long (400 ft. + 40 ft./level)
+1 mile/level
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. plus 10 ft./level)
+touch
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+personal
+personal
+personal
+personal
+personal
+touch
+personal
+personal
+medium (100 ft. + 10 ft./level)
+touch
+long (400 ft. + 40 ft./caster level)
+personal
+personal
+
+close (25 ft. + 5 ft./level)
+unlimited (see text)
+close (25 ft. + 5 ft./level)
+medium (100 ft. + 10 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+100 miles
+200 miles
+200 miles
+500 miles
+medium (100 feet + 10 ft./level)
+touch
+touch
+touch
+touch
+touch
+touch
+
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+medium (100 ft. + 10 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+150 ft.
+long (400 ft. + 40 ft./level)
+close (25 ft. + 5 ft./2 levels)
+
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+medium (100 ft. + 10 ft./level)
+personal
+medium (100 ft. + 10 ft./level)
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./levels)
+touch
+close (25 ft. + 5 ft./2 caster levels)
+0 ft.; see text
+personal
+touch
+personal
+touch
+30 ft.
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch (object); 1 mile (remote effects)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+0 ft.; see text
+touch
+personal
+personal
+personal
+personal
+personal
+personal
+personal
+personal
+personal
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+medium (100 ft. + 10 ft./level)
+touch
+personal
+close (25 ft. + 5 ft./level)
+personal
+touch
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+long (400 ft. + 40 ft./level)
+long (400 ft. + 40 ft./level)
+long (400 ft. + 40 ft./level)
+touch (see text)
+medium (100 ft. +10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+personal
+touch
+touch
+personal
+touch
+personal
+personal
+close (25 ft. + 5 ft./level)
+close (25 ft. + 5 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+personal
+personal
+personal
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+medium (100 ft. plus 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+1 mile/level
+personal
+touch
+long (400 ft. + 40 ft./level)
+touch
+see text
+medium (100 ft. + 10 ft./level)
+30 ft.
+touch
+touch
+touch
+touch and unlimited
+personal
+5 ft.
+touch
+close (25 ft. + 5 ft./level)
+close (25 ft. + 5 ft./level)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. +5 ft./level)
+touch
+touch
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+
+touch
+medium (100 ft. + 10 ft./level)
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+personal
+touch
+
+
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+1 mile
+touch
+medium (100 ft. + 10 ft./level)
+personal
+touch
+touch
+touch
+touch
+personal
+personal
+personal
+0 ft.
+touch
+long (400 ft. + 40 ft./level); see text
+touch
+close (25 ft. + 5 ft./2 levels)
+0 ft.
+touch
+personal
+personal
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft. level)
+touch
+medium (100 ft. + 10 ft./level)
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+personal
+long (400 ft. + 40 ft./level)
+personal
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+personal and close (25 ft. + 5 ft./2 levels; see below)
+touch
+medium (100 ft. + 10 ft./level)
+touch
+touch
+long (400 ft. + 40 ft./level)
+touch
+personal
+close (25 ft. plus 5 ft./2 levels)
+personal
+personal
+20 ft.
+personal
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+personal
+touch
+personal
+personal
+personal
+personal
+personal
+personal
+medium (100 ft. + 10 ft./level)
+touch
+touch
+touch
+touch
+long (400 ft. + 40 ft./level)
+touch
+medium (100 ft. + 10 ft./level)
+touch
+touch
+touch
+personal
+medium (100 ft. + 10 ft./level)
+personal
+touch
+touch
+touch
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+60 ft.
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+touch
+120 ft.
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+personal
+close (25 ft. + 5 ft./2 levels)
+close (25 ft. + 5 ft./2 levels)
+touch
+medium (100 ft. + 10 ft./level)
+personal
+close (25 ft. + 5 ft./2 levels)
+touch
+medium (100 ft. + 10 ft./level)
+personal
+personal
+medium (100 ft. + 10 ft./level)
+touch
+long (400 ft. + 40 ft./level)
+1 mile/level
+close (25 ft. + 5 ft./2 levels)
+long (400 ft. + 40 ft./level)
+up to 30 ft. (see text)
+close (25 ft. + 5 ft./2 levels) or long (400 ft. + 40 ft./level); see text
+close (25 ft. + 5 ft./2 levels)
+personal
+personal
+personal
+personal
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+1 mile/level
+touch
+touch
+close (25 ft. + 5 ft./2 levels)
+personal
+touch
+long (400 ft. + 40 ft./level)
+personal
+personal
+personal
+personal
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+0 ft.
+touch
+touch
+touch
+touch
+personal
+touch
+close (25 ft. + 5 ft./2 levels)
+medium (100 ft. + 10 ft./level)
+touch
+120 ft.
+120 ft.
+0 ft.
+30 ft. or 60 ft.; see text
+touch
+personal
+2 miles
+medium (100 ft. + 10 ft./level)
+close (25 ft. + 5 ft./2 levels)
+touch
+close (25 ft. + 5 ft./2 levels)
+see text
+30 ft.
+touch
+personal

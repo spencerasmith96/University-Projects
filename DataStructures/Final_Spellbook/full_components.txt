@@ -1,0 +1,2865 @@
+V, S, M (rhubarb leaf and an adder's stomach), F (a dart)
+V, S, M (powdered peas and an animal hoof)
+V, S
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, F/DF (a tiny bell and a piece of very fine silver wire)
+V, S, F (a ruby and gold lens worth 1,500 gp)
+V, S
+V, S, M (a morsel of food the animal likes)
+V, S, DF
+V, S
+V, S, M (an onyx gem worth at least 25 gp per Hit Die of the undead)
+V, S
+V
+V, S
+V, S, DF
+V, S, M/DF (pinch of powdered iron or iron filings)
+V, S, M/DF (a lump of alum soaked in vinegar)
+V, S, DF
+V, S, M (a bit of bat fur)
+V, S, M (gold dust worth 25 gp)
+V, S
+V, S
+V, S
+V, S, M (1,000 gp jacinth)
+V, S, M (burning incense), F (a set of prayer beads or other prayer device worth at least 500 gp), DF
+V, S, M (incense worth at least 25 gp), F (a set of marked sticks or bones worth at least 25 gp)
+V, S, M (herbs and oils worth 2,000 gp), DF
+V, S, DF
+V, S, F (see text)
+V, S, DF
+V, S, M/DF (a few hairs, or a pinch of dung, from a bear)
+V, S, M/DF (a few hairs, or a pinch of dung, from a bear)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S
+V, S, M (opals worth 500 gp per HD of the target creature, plus other components as specified below)
+V, S, M (octopus or squid tentacle)
+V, S
+V
+V, S
+V, S, DF
+V, S, M (5 pounds of powdered silver worth 25 gp)
+V, S
+V, S, DF
+V
+V, S
+V
+V, S
+V, S
+V, S, M/DF (a few hairs, or a pinch of dung, from a bull)
+V, S, M/DF (a few hairs, or a pinch of dung, from a bull)
+V, S
+V, S
+V, S
+V, S
+V, S, DF
+V, S, M (pinch of cat fur)
+V, S, M (pinch of cat fur)
+V, S
+V, S, F (a bit of fur; a piece of amber, glass, or a crystal rod; plus one silver pin per caster level)
+V, S, F (a quarterstaff that has been carved and polished for 28 days)
+V, S
+V, S
+V, S
+V, S
+V
+V, S, DF
+V, S
+V, S, M (a crushed black pearl worth 500 gp)
+V, S, F/DF (a small horn or a glass eye)
+V, S, F/DF (a leather glove)
+V, S, F (a tiny reliquary worth 500 gp)
+V, S, M (laboratory supplies worth 1,000 gp), F (special laboratory equipment costing 500 gp)
+V, S
+V, S, M (red, yellow, and blue powder or colored sand)
+V
+V
+V
+V, S, M (a shred of raw meat and a splinter of bone)
+V, S, M (holy or unholy water and incense worth 500 gp), DF
+V, S
+V, S, M/DF (pinch of soot and salt)
+V, S, M (a small crystal or glass cone)
+V, S, M/DF (three nutshells)
+V, S, DF
+V, S, M (a vial of holy water and 25 gp worth of silver dust), DF
+V
+V, S
+V, S, M (quicksilver and an eyelash of a spell-using creature), F (ivory statuette of you worth 1,500 gp)
+V, S, M (ruby dust worth 50 gp)
+V, S, DF
+V, S, M (a piece of bone and a piece of raw meat)
+V, S, M/DF (a pinch of dust for lower water or a drop of water for raise water)
+V, S
+V, S
+V, S
+V, S, M (a clay pot filled with grave dirt and an onyx gem worth at least 50 gp per HD of the undead to be created)
+V, S, M (a clay pot filled with grave dirt and an onyx gem worth at least 50 gp per HD of the undead to be created)
+V, S
+V, S
+V, S, M
+V, S, F (a soft glove)
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, M (5 lbs. of powdered silver worth 25 gp)
+V, S
+V, M/DF (bat fur and a piece of coal)
+V, S, M (either a pinch of dried carrot or an agate)
+V, S
+V, S, M (a pinch of wool or similar substance)
+V, S, M (a pinch of wool or similar substance)
+V, S
+V, S, DF
+V, S
+V, M/DF (bat fur and a piece of coal)
+V, S, M (fine sand, rose petals, or a live cricket)
+V, S, M (a ball of bat guano and sulfur)
+V, S, DF
+V, S, M/DF (fine copper wire)
+V, S, M (a vial of unholy water and 25 gp worth (5 pounds) of silver dust, all of which must be sprinkled around the area), DF
+V, S, F (holy or unholy symbol costing 500 gp)
+V, S
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S
+V, S
+V, S, M (a piece of mirror and a miniature brass hearing trumpet)
+V, S
+V, S
+V, S, F/DF (a copper piece)
+V, S, M/DF (earth from a grave)
+V
+V, S
+V, S
+V
+V, S, DF
+V, S, DF
+V, S, DF
+V, S
+V, S, M/DF (a lodestone and a pinch of dust)
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S
+V, S
+V, M (a small loop of leather)
+V, S
+V, S
+V, S, M (incense and an appropriate offering worth 25 gp)
+V, S, DF
+V, S, DF
+V, S
+V, S
+V, S
+V, S, DF
+V, S
+V, S, M/DF (feathers or droppings from an eagle)
+V, S, M/DF (feathers or droppings from an eagle)
+V, S, DF
+V, S, M (the element you plan to assume)
+V, S, M (the element you plan to assume)
+V, S, M (the element you plan to assume)
+V, S, M (the element you plan to assume)
+V, S
+V, S
+V, S
+V, S
+V, S, M (powdered iron)
+V, S, M (powdered iron)
+V, S, DF
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, M (the original material, which costs the same amount as the raw materials required to craft the item to be created)
+V, S, DF
+V, S, M (a drop of blood)
+V, S, M (crushed jade worth 250 gp)
+V
+V, S, M (a handful of clay, crystal, or glass spheres)
+V, S, F (a set of divination counters)
+V, S
+V, S
+V, S, M (phosphorus for the warm shield; a firefly or glowworm for the chill shield)
+V, S, M (acorns or holly berries)
+V, S
+V, S, M (gold dust worth 25 gp)
+V, S, M (a ball of bat guano and sulfur)
+V, S, M (a drop of oil and a small piece of flint)
+V, S, DF
+V, S, DF
+V, S, M/DF (tallow, brimstone, and powdered iron)
+V
+V, S, M (lime, water, and earth)
+V, S, M (a drop of mercury)
+V, S, F (a wing feather)
+V, S
+V, S, M (holy water and incense worth 1,500 gp, plus 1,500 gp per 60-foot cube), DF
+V, S, M (ruby dust worth 500 gp)
+V, S, F (a soft glove)
+V, S, M/DF (a hummingbird's feather)
+V, S, M (a scale of the dragon type you plan to assume)
+V, S, M (a scale of the dragon type you plan to assume)
+V, S, M (a scale of the dragon type you plan to assume)
+V, S, M/DF (hairs or dung from a fox)
+V, S, M/DF (hairs or dung from a fox)
+V, S
+V, S, M (a leather strip bound to the target), DF
+V, S, F (a small crystal sphere)
+S, M/DF (a bit of gauze and a wisp of smoke)
+V, S, M (see text)
+V
+V
+V, S, M/DF (salt and a copper piece for each of the corpse's eyes)
+V, S, M (a bit of wool or a small lump of wax)
+V, S, M (cloth from a ghoul or earth from a ghoul's lair)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, DF
+S
+V, S, M (ground mica)
+V, S, M (a glass or crystal bead)
+V, S, M (a glass or crystal bead)
+V, S, M (powdered diamond worth 200 gp)
+V, S, M (powdered diamond worth 200 gp)
+V, S, DF
+V, S
+V, S, F (a soft glove)
+V, S, M (butter)
+V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, and a small amount of blood), F (a small silver rod)
+V, S
+V, S
+V, S, M (herbs, oils, and incense worth at least 1,000 gp, plus 1,000 gp per level of the spell to be included in the hallowed area), DF
+V, S, M (a stone, a twig, and a green leaf)
+V, S, M (a pinch of sulfur and powdered garlic)
+V, S
+V, S, M (a shaving of licorice root)
+V, S
+V, S
+V, S
+V, S, DF
+V, S, DF
+V, S, DF
+V, S
+V, S
+S, DF
+V, S, DF
+V, S, M (tiny fruit tarts and a feather)
+V, S, F/DF (a small, straight piece of iron)
+V, S, M/DF (one hard metal bar or rod, which can be as small as a three-penny nail)
+V, S, M/DF (one hard metal bar or rod, which can be as small as a three-penny nail)
+V, S, F/DF (a small, straight piece of iron)
+V
+V, S, F (a tiny reliquary worth 500 gp)
+V, S
+V, S
+V
+V, S, M/DF (a bit of sponge)
+V (bard only), S, M (a stick of incense or a crystal rod); see text
+V, S
+V, S, M/DF (dust and water)
+V, S, M (wine stirred with an owl's feather)
+V, S, M (lead-based ink worth 50 gp)
+V, S
+V, S, DF
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, F (a soft glove)
+V, S, M/DF (an eyelash encased in gum arabic)
+V, S
+V, S
+V, S
+V, S, M
+V, S, M/DF (a piece of iron from an iron golem, a hero's armor, or a war machine)
+V, S, F (wood to be transformed)
+V
+V, S, M (a grasshopper's hind leg)
+V, S
+V
+V, S
+V, S, M (incense worth 250 gp), F (four pieces of ivory worth 50 gp each)
+V, S, F (a leather loop or golden wire bent into a cup shape)
+V, M/DF (a firefly)
+V, S, M (fur and a glass rod)
+V, S, M (diamond worth 1,500 gp)
+V, S
+V, S, F/DF (a forked twig)
+V, S, M (fur from a bloodhound)
+V, S, M (a pinch of dirt)
+V, S
+V, S, F (a piece of cured leather)
+V, S
+V
+V, S, M (a tiny silver whistle, a piece of bone, and a thread)
+V, S
+V, S, F (a miniature ivory door, a piece of polished marble, and a silver spoon, each worth 5 gp)
+V, S, M (a sheet of lead, a piece of glass, a wad of cotton, and powdered chrysolite)
+V, S, F (a miniature platinum sword worth 250 gp)
+V, S, F (a small square of silk that must be passed over the object that receives the aura)
+V, S, M/DF (a 3-ft.-diameter circle of powdered silver)
+V, S, M/DF (a 3-ft.-diameter circle of powdered silver)
+V, S, M/DF (a 3-ft.-diameter circle of powdered silver)
+V, S, M/DF (a 3-ft.-diameter circle of powdered silver)
+V, S, DF
+V, S, DF
+V, S, F (a gem or crystal worth at least 100 gp)
+V, S
+V, S, M (a small bit of honeycomb and jade dust worth 10 gp)
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, M/DF (powdered lime and carbon)
+V, S, M (a tiny piece of matter of the same sort of item you plan to create with minor creation)
+V, S, M (a tiny piece of matter of the same sort of item you plan to create with minor creation)
+V, S, F (a bit of fleece)
+V, S
+V, S, DF
+V, S
+V, S, DF
+V, S
+V, S, F (a piece of copper wire)
+V, S
+V, S
+V, S
+V, S, F (a bit of fleece)
+V, S; see text
+V, S
+V, S
+V, S
+S
+V, S, M (a piece of string, and ink consisting of squid secretion mixed with black dragon's blood), F (an ivory plaque worth 50 gp)
+V, S
+V, S
+V, S, M (a bit of horse hair)
+V, S, M (clay, loam, sand, and an iron blade)
+V, S, M/DF (charcoal)
+V, S
+V, S, M (diamond dust worth 50 gp)
+V, S, M/DF (chameleon skin)
+V, S
+V, S, F (a brass key)
+V, S
+V, S
+V, S, M/DF (feathers or droppings from an owl)
+V, S, M/DF (feathers or droppings from an owl)
+V, S, M (sesame seeds)
+V, S, DF
+V, S, M (see tables below)
+V, S, F (a bit of fleece)
+V, S, F (a bit of fleece)
+V, S
+V, S
+V, S, M (special dust worth 50 gp)
+V
+V, S, M (offerings worth 500 gp plus payment, see text), DF
+V, S, M (offerings worth 1,250 gp plus payment), DF
+V, S, M (offerings worth 2,500 gp plus payment), DF
+V, S
+V, S
+V, S
+V, S, F (a forked metal rod attuned to the plane of travel)
+V, S, DF
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, DF
+V, S, F (a white ceramic cone or prism)
+V, S, M (a piece of the creature whose form you choose)
+V, S, M (a piece of the creature whose form you choose)
+V, S, M/DF (mercury, gum arabic, and smoke)
+V
+V
+V
+V, S, DF
+V, S
+V
+V, S
+V, S
+V, S, M (a handful of crystal marbles)
+V, S
+V, S, M (fleece and jade dust worth 25 gp)
+V, S, M (a small replica of you worth 5 gp)
+V, S, F (a piece of tortoiseshell or turtle shell)
+V, S, M/DF
+V, S, M/DF
+V, S, M/DF
+V, S, M/DF
+V, S, M (diamond worth 500 gp), F (One 1,000 gp diamond per target. Each subject must carry the gem for the duration of the spell. If a subject loses the gem, the spell ceases to affect him.)
+V, S
+V, S, M (one fire source)
+V, S, DF
+V, S
+V (bard only), S, M (a piece of phosphor), F (a crystal prism); see text
+V, S, M (diamond worth 5,000 gp), DF
+V, S
+V, S, M (a drop of sweat)
+V, S
+V, S, F (a clear crystal or mineral prism)
+V, S, M (a pinch of powdered iron)
+V, S
+V, S, M (a pinch of powdered iron)
+V, S, M (a prepared object worth 1,500 gp)
+V, S, DF
+V, S, M, DF (oils worth 1,000 gp)
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, DF
+V, S
+V, S, F/DF (a pair of canine statuettes worth 50 gp)
+V, S, F (a crystal sphere)
+V, S, M/DF (a miniature cloak)
+V, S, DF
+V, S, M (diamond dust worth 100 gp or 1,000 gp, see text)
+V, S, M (diamond dust 5,000 gp)
+V, S
+V, S, M (diamond worth 10,000 gp), DF
+V, S, M/DF (lodestone and iron filings)
+V, S, DF
+V, S, M (powdered corn and a twisted loop of parchment)
+V, S, DF
+V, S, DF
+V, S, M (a bone from an undead creature)
+V, S, M (a crystal prism)
+V, S
+V, S
+V, S, M/DF (a pool of water), F (a silver mirror worth 1,000 gp)
+V, S
+V, S
+V, S
+V, S, F (the chest and its replica)
+V, S, M (powdered herring scales and a vial of will-o'-wisp essence)
+V, S, M (a chip of stone, sand, a drop of water, and a wood splinter)
+V, S, M (talc and powdered silver)
+V, S
+V, S, M/DF (fine copper wire)
+V, S, M (powdered amber worth 500 gp and a snake scale)
+V, S, M (a basilisk eyelash and gum arabic)
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, F (jade circlet worth 1,500 gp)
+V, S, M/DF (a chip of mica)
+V, S
+V, S, M (parchment with a holy text written on it)
+V, S, F (a reliquary worth 500 gp)
+V, S, F (a pair of platinum rings worth 50 gp worn by both you and the target)
+V, S, DF
+V, S
+V, S
+V
+V, S, F (a metal or ivory horn)
+V, S
+V, S, F (a bit of fleece)
+V, S, M (ice sculpture of the target plus powdered rubies worth 500 gp per HD of the simulacrum)
+V, S
+V, S, M (fine sand, rose petals, or a live cricket)
+V, S, M/DF (dust and water)
+V, S, M (a drop of molasses)
+V, S, DF
+V, S, DF
+V, S, M (powdered peas and an animal hoof)
+V, S
+V, S, F (see text)
+V, S, F/DF (a musical instrument)
+V, S
+V, S, DF
+V, S
+V, S
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, F (the staff that stores the spell)
+V, S, M/DF (a small silver mirror)
+V, S, M (a live spider)
+V, S, DF
+V, S, DF
+V, S, DF
+V, S
+V, S, M (lime, sand, and a drop of water stirred by an iron spike)
+V, S
+V, S, M (a rotten egg or cabbage leaves)
+V, S, M/DF (soft clay)
+V, S, M (granite and diamond dust worth 250 gp)
+V, S, DF
+V, S, M (a drop of blood mixed with earth)
+V, S
+V, M (a snake's tongue and a honeycomb)
+V, M (a snake's tongue and a honeycomb)
+V, S
+V, S, F/DF (a tiny bag and a small candle)
+V, S, F/DF (a tiny bag and a small candle)
+V, S, F/DF (a tiny bag and a small candle)
+V, S, F/DF (a tiny bag and a small candle)
+V, S, F/DF (a tiny bag and a small candle)
+V, S, F/DF (a tiny bag and a small candle)
+V, S, F/DF (a tiny bag and a small candle)
+V, S, F/DF (a tiny bag and a small candle)
+V, S, F/DF (a tiny bag and a small candle)
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, M/DF (a square of red cloth)
+V, S, DF
+V, S, M/DF (sunstone and fire source)
+V, S, M (mercury and phosphorus, plus powdered diamond and opal worth 5,000 gp each)
+V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)
+V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp)
+V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)
+V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp)
+V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)
+V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp)
+V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp)
+V, S, F (a tuning fork)
+V, S, M (a drop of honey and crushed pearls worth 1,500 gp)
+V, S
+V, S, M (a crystal sphere and a pair of small magnets)
+V, S, M (two eggshells from two different creatures)
+V
+V
+V
+V, M (amber dust to cover circle worth 1,000 gp)
+V, S, M (powdered diamond, emerald, ruby, and sapphire dust worth 5,000 gp)
+V
+V, S, M (a small crystal bead)
+V, M/DF (a clay model of a ziggurat)
+V, S, M (a drop of sweat)
+V, S
+V, S, M (a potion of bull's strength, which you drink and whose effects are subsumed by the spell effects)
+V, S, DF
+V, S, M/DF (sand, lime, and water)
+V, S, M/DF (clay and water)
+V, S
+V, S, M (gem worth 1,000 gp per HD of the trapped creature)
+V, S, DF
+V, S, DF
+V, S, M, DF (diamond worth 25,000 gp)
+V, S, M (an eye ointment that costs 250 gp)
+V, F (small wooden replica of an archery target)
+V, S, M/DF (diamond powder worth 500 gp)
+V, S
+V, S, M (herbs, oils, and incense worth at least 1,000 gp, plus 1,000 gp per level of the spell to be tied to the unhallowed area)
+V, S, F (a tiny reliquary worth 500 gp)
+V, S
+V, S, M (a piece of string and a bit of wood)
+V, S
+V, S
+V, F (parchment rolled into cone)
+V, S, DF
+V, S, M (incense worth 250 gp), F (four pieces of ivory worth 50 gp each)
+V
+V, S, M/DF (a piece of phosphor)
+V, S, M (powdered quartz)
+V, S, M (a piece of quartz or rock crystal)
+V, S, M (a small iron sheet plus gold dust worth 50 gp)
+V, S
+V, S
+V, S, M/DF (short reed or piece of straw)
+V, S, DF
+V, S
+V, S
+V, S, M (spider web)
+V, S
+V, S, DF
+V, S
+V, S, DF
+V, S, M/DF (a tiny fan and an exotic feather)
+V, S, M (diamond worth 25,000 gp)
+V, S, DF
+V
+V
+V, S
+V, S, DF
+V, S, M/DF (a small block of granite)
+V, S
+V, S, DF/F (any unholy symbol or heretical tome)
+V, S, M (see text)
+V, S
+V
+V
+V, S, M (100 gp worth of bloodstone for every ally teleported)
+V, S, M (cloth and twine)
+V, S, M (the heart of a hen or a white feather)
+V, S
+V, S, DF
+V, S
+V, S, M (a handful of crystal marbles)
+V, S, M (sapphire worth 1,000 gp)
+V, S, F (a written contract)
+V, S, F (a written contract)
+V, S, F (a written contract)
+V, S, F/DF (stone or metal image of your ancestor)
+V, S, F/DF (stone or metal image of your ancestor)
+V, S, F/DF (stone or metal image of your ancestor)
+V, S, DF
+V, S, M (iron filings)
+V, S, M (powdered adamantine, diamond, or mithral worth 200 gp)
+V, S, M (valuable offerings; see text), F (one gold coin)
+V, S, DF
+V, S
+V, S, AF (onyx sphere worth at least 50 gp)
+V, S
+V, S
+V, S, F (four alabaster canopic jars worth 100 gp each), M (black onyx worth 100 gp per hit die of the target)
+V
+V, S, DF
+V, S, DF
+V
+V, S
+V, S
+V, S, M (an ape or monkey paw)
+V, S, M (a locust)
+V, S, M (a drop of sweat)
+V, S
+V, S, M (a drop of blood from each creature to be affected)
+V, S, DF
+V, S
+S
+V, S, M (a thorn)
+V, S, M (drop of acid), F (Fine shovel worth 10 gp)
+S
+V, S, M (a pinch of salt and pepper)
+V, S
+S
+V, S, M/DF (a small pulley)
+V, S, M (a drop of water and a glass bead)
+V, S, M (a spent wand)
+V, S, M (arrow or crossbow bolt)
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, M/DF (a small iron ring)
+V, S, M (a cold iron nail)
+V, S, M (pieces of a smashed fiddle)
+V, S, F (the object to be offered)
+V, S, DF
+V
+V, S, DF
+V, S, DF
+V, S, M/DF (a scrap of parchment)
+V, S, M (a drop of blood and a pinch of cinnamon)
+V, S, DF
+S
+V
+S
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, M (a twig)
+V
+V, S, DF
+V, S, M/DF (eye of a mundane salamander)
+V
+V, S, M (a scrap of sheet music)
+V, S, M (a scrap of sheet music)
+V, S
+V, S, DF
+V, S, M/DF (ash made from burnt thorns)
+V, S, DF
+V, S, DF
+V, S, DF
+V, DF
+V, S, DF
+V, S
+S, DF
+V, S, M (a rose petal and a drop of perfume)
+V, S, M (a leaf from a shade tree)
+V, S
+V, S, DF
+V, S
+V, S
+V, S, DF
+V, S, DF
+V, S, M (a broken tool)
+V, S, F (a tool)
+V, S, F (miniature shovel costing 10 gp)
+V, S, M (powdered metal and rare inks worth 100 gp)
+V, S, M (a pinch of dust)
+V, S, F (a lantern)
+V, S
+V, S
+V, S
+V, S, M (a piece of rubber dipped in glue)
+S
+V
+V, S
+V, S, M (two vials; one containing acid and one containing an alkaline solution worth a total of 50 gp)
+V, S, M (a chameleon scale)
+V, S
+V, S
+V, S
+V, S, M (a scale from dragon that produces the energy you seek to absorb)
+V, S, M (a dragon scale)
+V, S, M (coal dust)
+V, S, DF
+V, S
+V, S, M (iron filings)
+V, S, M (a bit of the chosen element: earth, water, air, or fire)
+V, S, M (powdered diamond, emerald, ruby, and sapphire dust worth 500 gp)
+V, S, M (puppet strings)
+V, S, M/DF (a drop of paint and a ball of clay)
+V, S, M/DF (a poppy flower)
+V, S, M (a chameleon scale)
+V, S, M (a chameleon scale)
+V, S, M (a chameleon scale)
+V, S, M (tiny shovel)
+V, S, M (miniature broken hourglass)
+V, S, M (a pinch of ash)
+V, S
+V, S
+V, S, M (rotted meat)
+V, S, M (rotted meat)
+V
+V, S, M (a chili pepper)
+V, S
+V, S
+V, S
+V, S, M (a snake scale)
+V, S
+V, S, M (one fire source)
+V
+V
+S, M (a mixture of oil and water)
+V, S, F (a wing feather)
+V, S
+V, S, DF
+V, S, M (a ring of keys)
+V, S, DF
+V
+V
+V, S, M (a brass doorknob)
+V, S, M/DF (a piece of lava rock)
+V, S, M/DF (an old reed from a wind instrument)
+V, S, M/DF (an old reed from a wind instrument)
+V, S, M/DF (a leaf )
+V
+V, S
+V, S, M/DF (a leaf or blade of grass and a drop of water)
+V, S, M (a spool of thread or string)
+V, S
+V
+V, S, M/DF (a cipher written on a piece of parchment)
+V, S, M (a sprig of mistletoe, and a vial of quicksilver)
+V, S
+V, M/DF (a drop of honey)
+V, S, F (miniature shovel costing 10 gp)
+V, S
+V, S
+V, S, M (hair from a black cat)
+V, S
+V, S, DF
+V, S
+V
+V
+V, S
+V, M/DF (a hawk's feather)
+V, S, DF
+V, DF
+V, S
+V, S, M/DF (a bit of eggshell)
+V, S
+V, S, M (a frog's leg)
+V, S, M (sticky tree gum)
+V, S
+V, S, M (a piece of gauze)
+V, S
+V, S, M (a pinch of powdered moonstone)
+V, S, M (a little silk pillow worth 100 gp)
+V, S, M (a handful of pebbles dropped one by one onto the ground)
+V, S, DF
+V, S, M/DF (a pinch of alum)
+V, S
+V
+V, S
+V, S
+V, DF
+V, S
+V, S
+V or F (musical instrument)
+V, S, DF
+V
+V, S
+V, S, M (leaves from a toxic plant)
+V, S, DF
+V, S
+V, S, M (a stick of incense)
+V, S
+V, S, DF
+V, S, DF
+V, S, M (a handful of earth)
+V, S, M (a drop of your blood)
+V, S, M (a drop of your blood)
+V, S, M (a drop of your blood)
+V
+V, S, M/DF (ashes and a vial of holy or unholy water)
+V, S, M (a pinch of sand)
+V, S, M (a pinch of meteoric iron worth 100 gp)
+V
+V, S
+V, S, DF
+V, S
+V, S, F (a pair of golden bracelets worth 100 gp each worn by both you and the target)
+V, S, DF
+V, S, DF
+V, S
+V, S
+V, S, M (a queen ant)
+V
+V, S, M (lump of wax)
+V, S, M (a cup of water)
+V, S, M (a handful of copper coins)
+V, S, M (a page from a dictionary)
+S
+V, S, M (a hair, scale, or feather from your familiar)
+V, S, M (a handful of sand)
+V, S, M (a thorny vine)
+V, S
+V, S, M/DF (handful of fine sand cast into the air)
+V, S, M (a sprig of belladonna worth 100 gp)
+V, S, M/DF (a few drops of oil and water)
+V, S, M (a knife suitable for whittling)
+V
+V or S
+V, S, F (miniature shovel costing 10 gp)
+V, S, DF
+V, S, M (rare inks worth 250 gp)
+V, S, DF
+V, S, DF
+V, S, M (a chip of granite)
+V, S, M/DF (a copper rod)
+V, S
+V, S, F (miniature shovel costing 10 gp)
+V, S
+V, S, M (a vial containing a bit of the caster's breath)
+V, S, M (a vial containing a bit of the caster's breath)
+V, S, M (a silver coin)
+V, S, M/DF (a crushed insect hive)
+V, S, DF
+S, F (silver crescent worth 5 gp)
+V, S
+V
+V, S, M (a hard biscuit)
+V, S, M (a hard biscuit broken into pieces)
+V, S
+V, S, M (a fish scale)
+V, S, M (a flask of quicksilver worth 1,000 gp)
+S
+V, S, M (a piece of embroidered cloth no larger than 10-ft. square worth 100 gp)
+V, S
+V, S
+V, S, F (a small knife)
+V, S, M (a blend of soil and the caster's blood)
+V, S, M (a broken chain)
+V, S, M (quicksilver and powdered platinum worth 100 gp)
+V, S, M (ruby dust worth 250 gp)
+V, S
+V, S
+V, S, DF
+V, S
+V, S, M (iron filings)
+S
+V, S, M/DF (a stirring spoon)
+V, S, DF
+V, S, M/DF (a chunk of dried lava)
+V, S, M (powdered adamantine worth 1,000 gp)
+V, S, M (a sprinkle of flash powder)
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, M (a thorny vine)
+V, S, DF
+V, S, DF
+V, S
+V, S, M (a drop of water)
+V, S, M (a bit of plaster)
+V, S, DF
+V, S
+V, S, M/DF (a snakeskin)
+V, S
+V, S, M (1 iron spike)
+V, S, F (a Harrow deck)
+V, S, M (1 drop of devil blood or 1 dose of unholy water)
+V, S, M (1 drop of devil blood or 1 dose of unholy water)
+V, M (a piece of jewelry worth at least 100 gp)
+V, S, DF
+V, S, M (powdered lodestone and silver worth 100 gp per 40-ft. cube)
+V, S
+V, S
+V, S, M (250 gp of powdered amber)
+S, V
+V, S, M (a vial of acid worth 10 gp)
+V, S, M (a glass lens)
+V, S
+V, S
+V, S
+V
+V, S, M (an onyx gem worth at least 25 gp per Hit Die of the undead)
+V, S, M (a humanoid thumb bone)
+V, S
+V, S, DF
+V, S
+V, S
+V, S, DF (a holy symbol)
+V, S, M/DF (a pinch of ash)
+V, S, M (1,000 gp jacinth)
+V, S
+V, S
+V, S, M/DF (powdered bone)
+V, S
+V, S
+V, S, DF
+V, S
+V, S
+V, S
+V, S
+V, S, M (a pinch of dried red algae)
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, M (a sapphire worth 1,000 or 5,000 gp; see text)
+V, S
+V, S
+V, S
+V, S, F (a crystal lens worth 100 gp)
+V, S
+V, S
+V, S, M (a flask of acid worth 10 gp)
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, F (a forked metal rod worth at least 500 gp)
+V, S, F (a forked metal rod worth at least 500 gp)
+V, S, F (a forked metal rod worth at least 500 gp)
+V, S
+V, S
+V, S, M (powdered lead and platinum worth 250 gp)
+V, S, M (powdered onyx 10,000 gp), DF
+V, S,
+V
+V
+V, S, M (either a pinch of dried carrot or an agate)
+V, S
+V, S, M (a pinch of dried toadstool)
+V, S, M (a hollow metal sphere)
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, DF
+V, S, DF
+V, S
+V
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, M (a drop of blood)
+V, S
+V, S
+V, S
+V
+V
+V, S
+V, S
+S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, M (a flask of holy water or 5 pounds of powdered silver worth 25 gp)
+V, S
+S
+V, S, M (a needle and a dried eyeball)
+V, S
+V
+V, S
+V, S
+V, S
+V, S, DF
+V
+V, S
+V, S
+V, S
+S
+V, S
+V, S
+S, V, DF
+V, S
+V, DF
+V, DF
+V, S, M (fur and two glass figurines)
+V, S, M (a tangle of multicolored threads)
+V, S
+V, S
+V, S, DF
+V, S
+V, S, M (powdered turquoise worth 150 gp)
+V, S, F (a piece of paper with the target's name)
+V, S, M (see below)
+V, S
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, M (a piece of the creature whose form you plan to assume)
+V
+V, S
+V, S
+V, S, M (a black gemstone of any kind worth 50 gp)
+V, S
+V, S, M (a swan feather)
+V, S, DF
+V, S
+V
+V, S
+V, S
+V, S
+V, S
+S
+V, S, F (a gem or crystal worth at least 100 gp)
+V, S
+V
+V, S,
+V, S, M/DF (a square of red cloth)
+V, S, M (a diamond worth 1,000 gp)
+V, S, DF
+V, S, M (a drop of sweat)
+V, S
+V, S
+V, S, DF
+V
+V, S
+V, S, M (diamond dust worth 100 gp or 1,000 gp, see text)
+V, S
+V, S
+V, S
+V, S, DF, M (a pinch of silver dust)
+V, S
+V, S
+V, S
+V, S
+V, S, M
+V, S
+V, S
+V, S, DF
+V, S
+V, S, M (an ice sculpture of the target plus powdered rubies worth 50 gp per HD of the simulacrum)
+V, S
+V, S, M (a tiny shard of a mirror)
+S, V, M (a bundle of sulfur wrapped in cloth)
+V, S
+V, S
+V, S, DF
+V
+V
+V, S
+V, S
+V, S
+V, S, DF
+V, S, F/DF (a tiny bag and a small candle)
+V, S
+V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 500 gp)
+V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 100 gp)
+V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 1,000 gp)
+V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 1,000 gp)
+V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 5,000 gp)
+V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 1,000 gp)
+V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 15,000 gp)
+V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 15,000 gp)
+V, S, M (a tiny ball of bitumen)
+V, S, M (diamond dust worth 500 gp)
+V, S
+V, S, M (a drop of acid and a black glass sphere)
+V, S
+V, S, M (a wax doll and a vial of acid worth 10 gp)
+V, S, M
+V, S, M (powdered adamantine worth 100 gp)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, M (a flask of unholy water or 5 pounds of powdered silver worth 25 gp)
+V, S
+V, S
+V, S
+V, S, M
+V, S, M (spittle)
+V, S
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S
+V
+V, M (a pinch of brimstone)
+V, S, M (a piece of lemon rind)
+V, S
+V, S, M/DF (obsidian and ash)
+V, S, M (a tuning fork and a quartz crystal)
+V, S, M (a swatch of black cloth)
+V, S
+V, S, DF
+V, S
+V, S
+V, DF
+V, S
+V, S
+V, S
+V, S, M (a miniature fan)
+V, S
+V, S
+V, S, M (a bit of soot)
+V, S, M (a pinch of dirt)
+V, S
+V, S
+V, S
+V, S, F/DF (chunk of rotten meat)
+V, S, F/DF (strip of rune-inscribed parchment)
+V, S, M (a sphere of glass worth 100 gp and an iron nail, with which you pierce the glass on casting)
+V, S, M (a crystalline sphere worth 10 gp)
+V, S
+V, S, M/DF (a miniature shovel)
+V, S, M/DF (a piece of bone from any one of your totem animals)
+V, S
+V, S, M/DF (powdered silver)
+V, S
+V, S, F (masterwork thieves' tools worth 100 gp)
+V, S, M (masterwork thieves' tools worth 100 gp)
+V, S, DF
+V, S, DF
+V, S
+V, S, M (100 gp of powdered gemstones)
+S, M (a bone needle and sinew thread)
+V, S, M (a bit of hair, a fingernail, or a similar portion of a creature)
+V, S, M (a gemstone worth at least 500 gp)
+V, S, M (a drop of your own blood)
+V, S, DF
+V, S, F (a gem worth at least 500 gp)
+V, S, M (a cocoon tied with string)
+V, S, M (a bit of cloth made wet with saliva)
+V, S, M (hot pepper soaked in oil)
+V, S, M (a dead wasp)
+V, S, F (cold iron scepter worth at least 1,000 gp)
+V
+V
+V, S, M (handful of snow, earth, or gravel)
+V, S
+V, S, M (dried blood from an evil outsider, sprinkled on the weapon)
+V, S, M (vellum inscribed with good outsider's name)
+V, S, M (a small mirror)
+V, S, M (a small mirror)
+V, S, M (scrap of pickled flesh)
+V, S
+V, S, M (a leather glove coated in dried embalming herbs)
+V, S, M (a pinch of dust, embers, wind-blown sand or drops of water, depending on the genie type)
+V, S, M (a bat's tooth)
+V, S, M (a scrap of paper torn from a book about monsters)
+V, S, M (diamond dust worth at least 1,000 gp)
+V, S, M/DF (a handful of ghoul's teeth)
+V, S, M (diamond dust worth 100 gp)
+V, S, DF
+V, S, M (a marionette's crossbar)
+V
+V, S, M (a stick of incense treated with special balms)
+V, S, M (a much-diluted drop of sun orchid nectar worth 500 gp)
+V, S, M (a pugwampi's hair)
+V, S, M (a single link from a spiked chain)
+V, S, M (a small length fine of silver chain worth 100 gp)
+V, S, M (a coiled length of copper wire wrapped around the palm)
+V, S
+V, S, M (a prism)
+V, S, M (a prism)
+V, S, M (a pinch of sand from the Spellscar Desert)
+V, S, M (a pinch of sand from the Spellscar Desert)
+V, S, M (a potion to be tattooed, special inks worth 500 gp)
+V, S, M (tattooing needle)
+V, S
+V, S, M (a fragment from a Large or larger weapon)
+V, S, F (a magic wand)
+V, S, M (a sliver of tree bark from a burnt tree from the Uskwood)
+V, S, M (a piece of metal cut from a shield)
+V, S, M (a thorn from a poisonous plant)
+V, S, M/DF (a single piece of ammunition)
+V, S, M (a rabbit's foot)
+V, S
+S, M/DF (a small bladder filled with air)
+V, S, DF
+V, S, M/DF (a part of the animal)
+V, S, M/DF (a part of the animal)
+V, S, M/DF (a small pulley)
+V, S, F (an ornate miniature cannon forged with a drop of your blood that costs 5,000 gp)
+V, S, M (pieces of shaved metal)
+V, S
+V
+V, S
+V, S, M (a bullet)
+V
+V, S
+V, S, M/DF (a tiny ball of tar)
+V, S, M/DF (chain link)
+V, S
+V, S, M (a drop of your blood)
+V, S, M/DF (a damp piece of cotton)
+V, S, M (either a pinch of dried carrot or an agate)
+V, S
+V, S
+V, S
+V, S, DF
+V, S, DF
+V, S, M (a few drops of liquor)
+V, S
+V, S
+V, S, M (a pinch of dust gathered from a gravestone or sacred shrine)
+V, S
+V, S
+V, S, M (a ball of pitch)
+V, S, M (a ball of pitch)
+V, S, M (1 pound of lead or other soft metal worth 2 gp)
+V, S, M (a pinch of sulfur and a single shuriken worth 2 sp)
+V, S, DF
+V, S, M (a pinch of powdered fool's gold)
+V, S, M (a pinch of manure)
+V, S, M (the skin of a toad)
+V, S
+S
+V, S, M (a bit of sponge, damp with tears)
+V, S
+V, S, M (a coin)
+V, S, M (a coin)
+V, S, M (a leather loop studded with lodestones)
+V, S
+V, S
+V, S, DF
+V, S
+V, S, M (a pinch of tree resin)
+V, S, M (rubber tree sap)
+V, S
+V
+V, S
+V, S
+V, S
+V, S
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, M/DF (a pickled predator's eye)
+V, S
+V, S, M/DF (a piece of fletching)
+V, S, DF
+V, S, M/DF (black powder)
+V, S, M (a piece of gauze)
+V, S
+V, S, M (a shard of mirror)
+V, S, M/DF (rabbit fur)
+V, S, M (a bit of horse hair)
+V, S, M (a whole fingernail)
+V, S, M/DF (an item from the selected creature or creature type)
+V, S, M/DF (an item from the selected creature or creature type)
+S
+V, S, M (diamond dust worth 25 gp per target)
+V, S, M/DF (a small piece of obsidian)
+S
+V, S, M (a handful of metal pellets or handful of cold iron, silver, or adamantine pellets; see descriptions for cost)
+V, S
+V, S
+V, S
+S
+V, S, F (a piece of tortoiseshell or turtle shell)
+V, S, M/DF
+V, S, DF
+V, S, M/DF
+V, S, M/DF
+V, S, M/DF
+V, S, M (a rag doll)
+V, S
+V, S, M (hoof shavings from a mule)
+V, S, M/DF (a metal pin)
+V, S, M/DF (a metal pin)
+V, S
+V, S
+V, S, DF
+V, S
+V, S
+V, S, M (a wishbone)
+V, S, M (eye of newt)
+V, S
+V, S, M (a page from a dictionary)
+V, S
+V, S
+V, S, DF
+V,S
+V, S, DF
+V, S, DF
+V, S, M (a live spider)
+V, S, M (pinch of saltpeter)
+V, S, M (a few drops of liquor)
+V, S, M (granite and diamond dust worth 250 gp per creature affected)
+V, S, M (two flies)
+V, S
+V, S, M (a masterwork melee weapon costing at least 300 gp)
+V, S, M/DF (a small piece of a map)
+V, S, M/DF (a ball of hardened tar)
+V, S
+V, S, F (a miniature of the target siege engine, costing 10 gp)
+V, S
+V, S, M (a pinch of earth taken from your most favored terrain)
+V, S, M (a piece of spent thunderstone)
+V, M/DF (a clay model of a ziggurat)
+V, S
+V, S, M (a length of wire bent into a circle)
+V, S
+V, S
+V, S, M (a wren's egg)
+V, S, F (one melee weapon you are proficient in and you are holding)
+V, S, DF
+V, S, M/DF (an empty paper cartridge)
+V, S
+V, S, F (four mithral daggers, each worth at least 502 gp each)
+V, S, DF
+V, S
+V, S
+V, S, M (2 silver coins)
+V, S, F (crystal or gem receptacle worth at least 25 gp)
+V, S, M (50 gp worth of powdered silver)
+V, S
+V, S
+V, S
+V, S, F (a gem or crystal worth at least 100 gp)
+V, S
+V, S, M (gem worth 1,000 gp per HD of the trapped creature)
+V, S, F (a silver hook)
+V, S, F (a silver hook)
+V, S, F (ashes of a dead animal)
+V, S, F (a handful of bug carapaces)
+V, S, F (a bent or tarnished wedding band)
+V, S, F (an empty wooden bowl)
+V, S, F (two silver coins)
+V, S
+V, S
+V, S, M
+V, S, M
+V, S, F (piece of ship)
+V, S, M
+V, S
+V, S, M (a piece of seaweed)
+V, S, M/DF (a glass marble or piece of soap)
+V, S, DF, M (diamond dust worth 100 gp)
+V, S, DF, M (diamond dust worth 1,000 gp)
+V, S, F (onyx dust worth 500 gp)
+V, S
+V, S, DF
+V, S
+V, S
+V, S
+V, S
+S
+V, S
+V, S, M/DF (an owl's beak)
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, M (a few drops of river water)
+V, S
+V, S
+V, S
+V, S
+V, S, F (dire wolf tooth)
+V, S, M (oils and poisons worth 3,000 gp), DF
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, M (a flask of seawater)
+V, S, M (a flask of seawater)
+V, S, M (a vial of ambrosia)
+V
+V, S, DF
+V, S, M/DF (a cat's whisker)
+V, S
+V, S, DF
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, M (a small black silk bag)
+V, S
+V, S
+V, S
+V, S
+V, S, F (a drop of oil and a small piece of flint)
+V, S
+V, S
+V, S
+V, S
+S, M (a bit of gauze and a handful of ashes)
+V, S
+V, S
+V, S
+V, S
+V, S, M (target creature's heart)
+V, S, M (an onyx gem worth at least 10 gp)
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, DF
+V, S
+V, S, DF
+V, S
+V, S
+S, M/DF (a bit of gauze and a wisp of smoke)
+V, S
+S, M (contact or inhaled poison worth 100 gp)
+V, S,
+V, S
+V, S
+V, S
+V, S
+V, S
+V
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, M/DF (piece of seaweed)
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+S
+V, S
+V, S
+V, S
+V, S, F (a gem worth 1,000 gp inscribed with the Thassilonian symbol of wrath)
+V, S
+V
+V, S, DF, M (1 gp worth of powdered iron)
+V, S, M (a feather or swatch of soft fabric)
+V, S, M (a pinch of sand or limestone dust)
+V, S, M (a piece of brass)
+S, F (an example of the crest or coat of arms)
+V, S
+V, S, M (a pinch of rust)
+V, S, M (the armor to be worn)
+V, S
+V, S, DF
+V, S, M (powdered amber worth 500 gp and a snake scale)
+V, S, M (a drop of holy water)
+V, S, F/DF (a copper piece)
+V, S
+V, S, M (a handful of ash)
+V, S, M (a handful of ash)
+V, S, M (drop of animal blood)
+V, S, M/DF (ground glass)
+V, S, F (a mirror)
+V, S
+V, S
+V, S, DF
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S
+V, S, M (a small stalagmite-shaped crystal)
+V, S, DF
+V, S, DF
+V, S, M (fistful of mithral tacks)
+V, S, M (handful of pebbles)
+V, S
+V, S, F (platinum monocle worth 100 gp)
+V, S, M/DF (dried maggots)
+V, S, M/DF (dried maggots)
+V, S, M (a leather glove coated in dried embalming herbs)
+V, S, DF
+V, S
+V, S
+V, S, DF
+V, S, M/DF (dove's heart)
+V, S
+V, S
+V, S
+V, S
+V, S, M/DF (a piece of flint and a pinch of silver dust)
+V, S, F (a length of fine golden chain)
+V, S, DF
+V, S
+V, S
+V, S
+V, S, F/DF (a miniature collection plate)
+V, S, M/DF (four needles)
+V, S, DF
+V, S, M (piece of fur from a herd animal)
+V, S, DF
+V, S, F
+V, S
+V, S, DF
+V, S, DF
+V, S, M/DF (a pinch of Darklands earth)
+V, S
+V, S, F (an ounce of lead)
+V, S
+V, S, M/DF (a single reptile scale)
+V, S, M (materials required to construct the trap)
+V, S, F/DF (a seed)
+V, S, M (promotional materials such as flyers and posters worth 10 gp)
+V, S
+V, S, M (silver dust worth 1,000 gp)
+V, M (gold dust worth 50 gp)
+V, S, DF
+V, S, F (a silver mirror worth 100 gp)
+V, S
+V, S, DF
+V, S, M (a piece of turtle shell)
+V, S
+V, S
+V, S, F (a small glass orb worth 150 gp)
+V, S
+V, S, M (a small lead weight)
+V, S, F (a fetish of mammoth hair soaked in dragon's blood)
+S, M (an item from the hoard, see below)
+V, S
+V, S, F (a book with blank pages)
+V, S, F (a bronze tuning fork)
+V, F (a square of cloth and a needle)
+V, S, M (a gobbet of melted wax)
+V, S
+V, S, M/DF (a chip of mica)
+V, S, M (the caster's blood)
+S, M (tobacco leaves, ingested)
+V, S, DF
+V, S, M (a piece of soil from the land to be memorized)
+V, S, M (an unworked lodestone)
+V, S, DF
+V
+V, S
+V, S, DF
+V, S, DF
+V, S, DF
+V
+V, S, M (powdered sapphire worth 250 gp), F (bejeweled cold iron mirror worth at least 2,000 gp)
+V, S, F (minor artifact), M (10,000 gp in rare herbs, gems, and other exotic materials)
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, M (10,000 gp worth of precious minerals, see text)
+V, S
+V, S
+V, S
+V, S, F/DF (a gold-plated, cold iron ring that was forged in the Abyss)
+V, S, F/DF (a tiny bag and a small candle)
+V, S, F/DF (a tiny bag and a small candle)
+V, S
+V, S, M (a handful of worms)
+V, S
+V, S
+V, M (handful of down)
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, DF
+V, S
+V, S, M (a drop of mercury)
+V, S, M (cold iron, powdered diamond, and ground adamantine worth a total of 5,000 gp)
+V, S
+V, S, F (a small prism)
+V, S, M (a sword)
+V, S, F/DF (an oil lamp worth at least 50 gp)
+V, S, F/DF (an oil lamp worth at least 50 gp)
+V, S, F/DF (an oil lamp worth at least 50 gp)
+V, S, DF
+V, S
+V, S
+V
+V, S
+V, S, F (a set of scales worth 500 gp)
+V, S, DF
+V, S, DF
+V, S
+V, S, F/DF (a crocodile skull funerary mask)
+V, S, F/DF (a vulture skull funerary mask)
+V, S, F (a gem or crystal worth at least 500 gp)
+V, S, DF
+V, S
+V, S
+V, S, M (a twisted nail)
+S, DF
+V, S, M/DF (a handful of knucklebones)
+V, S, F/DF (a gold piece with one scratched face)
+V, S, DF
+V
+V, M/DF (powdered bull's horn)
+V, S, M/DF (a tuft of rabbit fur)
+V, S
+V, S, DF
+V, S
+V, S, DF
+V, S, M (vial of black adder venom)
+V, S, DF
+V, S
+V, S, M (one arrow)
+V, S, F (a Medium creature's skull or femur), DF
+V, S, DF
+V, S, DF
+V, S
+V, S
+V, S, DF
+V, S, DF
+V, S, M (emerald dust worth 100 gp)
+V, S, DF
+V, S
+V, S, M/DF (a small amount of ale in a flagon)
+V, S
+V, S, DF
+V, S, M (a broken twig)
+V, S, F (a small mithral hammer worth 300 gp), DF
+V, M (pinch of sand)
+V, S, DF
+V, S, F (5 gallons of water)
+V, S, DF
+V, S
+V, M (goose down)
+V, M (goose down)
+V, S
+V, S, M (the powdered bones of a creature that died in prison)
+V, S
+V, S
+V, S, DF
+V, S
+V, S, DF
+V, S, F (a set of marked sticks or bones worth at least 25 gp)
+V, S, DF
+V, S
+V, S
+V, S, DF
+V, S
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, M/DF (bull's blood, tallow, one or more humanoid victims totaling at least 15 Hit Dice)
+V, S, F (a silver piece)
+V, S
+V, S, M (a set of bull genitals and powdered ruby worth 5,000 gp)
+V, S, M (pure grain alcohol and powdered diamond worth 5,000 gp)
+V, M (a tiny mirror)
+V, S
+S, DF
+V, S, M (one corpse)
+V, S
+V, S, M (a living wasp), DF
+V, S
+V, DF
+V, S, M (onyx gems worth 50 gp per HD of the undead to be created)
+V, S
+V, S
+V, S, F/DF (a set of 64 chicken bones)
+V, S
+V, S, M/DF (a full set of 10 fingernails)
+V, S
+V, S
+V, S, F (a precious metal canine statue worth 100 gp)
+V, S, F (a harrow deck)
+V, S, M (a flask of holy water worth 25 gp), DF
+V, S
+V, S
+V
+V, S, M (a broken bone)
+S, V, M (silt from a dry riverbed)
+V, S, F (a magnetized nail or nugget of ore)
+V, S, M (driftwood branch or river rat's tail)
+V, S
+S, F (bell, chimes, gong, or cymbals)
+V, S, F/DF (a smooth river stone)
+S, V
+V, S, M/DF (pinch of rust)
+V, S, F/DF
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, M/DF (a 3-ft.-diameter circle of powdered copper)
+V, S
+V, S, powdered skymetal worth 10,000 gp
+V, S, M/DF (a pinch of powdered copper)
+V, S, F/DF (powdered fragments of technology)
+V, S, M (500 gp of diamond dust)
+V, S
+V, S
+V, S, M (oil stirred with a coil of wires)
+V, S, M (a piece of meteorite)
+V, S, M (a marble)
+V, S
+V
+V, S
+V, S, F (a ruby worth at least 25 gp per HD of the target construct)
+V, S
+V, S
+V, S
+V, S
+V, S, M (a small piece of doppelganger flesh)
+V, S, M/DF (a piece of a tree struck by lightning)
+V, S, M/DF (a piece of a tree struck by lightning)
+V, S
+V, S, M (a goose feather)
+V, S, DF
+V, S, F (an instrument)
+V, S, M (a bit of oak root)
+V, S, M (a swatch of black cloth)
+V, S
+V, S, DF
+V, S
+V, S
+V, S
+S, DF
+V, S
+V, S
+V, S, M (a drop of rainwater)
+V, S
+V, S
+V, S
+V, S, M (a life-sized animal sculpture of a familiar made of clay, cloth, stone, or wood, plus mandrake root worth 25 gp)
+V, S
+V, S, M (an iron coil)
+V, S, F (one to four adamantine bullets, each worth 61 gp)
+V
+V, S, DF
+V, S, DF
+V, S, M/DF (a drop of eidolon ichor)
+V, S
+V, S, M (the scroll to be triggered; see text), F (a platinum quill worth 100 gp)
+V, S
+V, S
+V, S, M (a feather and a drop of oil)
+V, S
+V, S
+V, S, F (a copper piece)
+V, S
+V, S
+V, S, DF
+V, S, M (rare mushrooms worth 5 gp)
+V, S
+V, S, M (a pinch of dried carrot or an agate)
+V, S, DF
+V, S, M (a small replica of you worth 5 gp)
+V, S
+V, S, M/DF (tallow, brimstone, and powdered iron)
+V, S
+V, S
+V, S, M (gold dust worth 50 gp)
+V, S
+V, S
+V, S, M (parchment with a holy text written on it)
+V, S, M (a chunk of adamantine worth 100 gp, or a chunk of cold iron or silver worth 20 gp)
+V, M/DF (a coffee bean)
+V, S
+V, S, M (powdered diamond worth 200 gp)
+V, S, M (powdered diamond worth 400 gp)
+V, S, M (a drop of your blood)
+V, S, M (a flask of holy water, or 5 pounds of powdered silver worth 25 gp)
+V, S
+V, S, F/DF (a tiny bell and a piece of very fine silver wire)
+V, S, DF/M (a drop of blood from each target)
+V, S
+V, S
+V, S, M (a pinch of dirt)
+V, S
+V, S, DF
+V, S
+V, S
+V, S, F (the page to be memorized)
+V, S
+V, S, M (a glass or metal marble and a twisted loop of parchment)
+V, S, M (a soft cloth)
+V, S, M (a glass or metal marble and a twisted loop of parchment)
+V, S
+V, S
+V, S
+S, DF
+V, S, M (a rotten egg or cabbage leaves)
+V, S
+V, S
+V, S, M/DF (ginseng root shavings)
+V, S
+V, S
+V, S, DF
+V, S
+V, S, DF
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, DF
+V, S, DF
+V, S, DF
+V
+V, S, M (a silver needle)
+V, S, M (earth and water)
+V, S, M (a pinch of dust gathered from a gravestone or a sacred shrine)
+V, S
+V, S, DF
+V, S
+V, S
+V, S
+V, S, DF
+V, S, M (a pinch of earth or metal)
+V, S
+V, S
+V, S
+V, S
+V
+V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)
+V, S
+V, S, DF
+V, S
+V, S
+V, S, M (a tiny hourglass)
+V, M (a snake's tongue and a honeycomb)
+V, S
+V, S
+V, S, M (a flask of unholy water or 5 pounds of powdered silver worth 25 gp)
+V, S
+V, S
+V, S
+V, S
+V
+V, S, M/DF (a square of red cloth)
+V, S, M/DF (a square of red cloth)
+V, S, M/DF (a square of red cloth)
+V
+V, S
+V, F (a silver dagger inlaid with onyx and jade worth 100 gp)
+V, M (an old bone, broken in the casting)
+V, S, DF
+V, S, M (a pinch of pepper)
+V, S
+V
+V, S, DF or M (a hag's whisker)
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, M (a piece of flesh from another creature of your species)
+V, S
+V, S, DF/M (a beetle)
+V, S, M (a pinch of pumice)
+V, S, DF/M (a pinch of forge soot)
+V, S
+V, S, DF
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, M (a quiver full of 20 arrows worth 1 gp)
+V, S
+V, S
+V, S, M (1 pint of water)
+V, S, M/DF (a small bit of snakeskin)
+V, S, M/DF (a small thorn)
+V, S, M/DF (a bit of thistle)
+V, S, M/DF (flower or piece of grass)
+V, S, DF
+V, S, DF
+V, S
+V, S, M (a snake scale)
+V, S
+V, S, M (a lead bearing wrapped in clay)
+V, S
+V, S, M (a small rune carved from stone)
+V, S
+V, S, M (powdered stone)
+V, S, M (a piece of iron shaped like a scale tray)
+V, S, M (a small die with the faces scratched off)
+V, S
+V, S, DF
+V, S, M (a lizard's tooth)
+V, S
+V, S
+V, S
+V, S, M (alchemically preserved mockingfey feathers), F (familiar)
+V, S, F (a glass rod)
+V, S, F (two brass collars worth 50 gp each)
+V, S
+V, S, M (a small handful of beans)
+V, S, M/DF (a small piece of charcoal)
+V, S, M/DF (a chunk of ice or a few drops of water melted from glacier ice)
+V, S, M
+V, S, M
+V, S, M (shavings from a holy symbol)
+V, S, M (a shaving of oak root)
+V, S, DF
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, DF
+V, S, M (a piece of rubber or drop of tar)
+V, S, M (a pair of miniature swords)
+V
+V, S, M/DF (a miniature hoe)
+V, S, M/DF (a glass globe)
+V, S, M/DF (1 gallon of water)
+V, S, M (precious stones worth 500 gp)
+V
+V, S, DF
+V, S, M (handful of pebbles)
+V, S, M (a black glass vial containing unholy water)
+V, S, M (a small root cutting)
+V, S, M (a tiny puffball mushroom)
+V, S
+V, S
+V, S
+V, S, F/DF (a thimble of water and a seed)
+V, S
+V, S
+V, S, F/DF (a strip of rune-inscribed parchment)
+V, S
+V, S
+V, S, M/DF (a chicken skull)
+V, S
+V
+V, S
+V, S
+V
+V
+V
+V, S
+V, S, M/DF (the fang of a poisonous creature)
+V, S, M/DF (a pinch of spores)
+V, S, M/DF (an apple seed)
+V, S, M/DF (a lump of charcoal)
+V, S, M/DF (a spider's mandible)
+V, S, M/DF (a hair from a spider)
+V, S, M/DF (a viper's fang)
+V, S, M (a vial of injury poison worth at least 75 gp), DF
+V, S, M/DF (a chess piece)
+V, S, M (two glass beads)
+V, S, M (octopus or squid tentacle)
+V, S, M (butter)
+V, S
+V, S, M/DF (three translucent pebbles)
+V, S, M (a drop of blood)
+V, S, M (a drop of ink)
+V, S
+V, S, M (a feather or small object that symbolizes good fortune)
+V, S
+V, S, M
+V, S
+V, S
+S
+V, S, M/DF (a small piece of a brick)
+V, S, M (a shirt button)
+V, S, M/DF (a small key)
+V, S, M/DF (a glass cube)
+V, M/DF (a worn-out coin)
+V, S
+V, S, M (herbs and oils worth 2,000 gp per HD of target), DF
+V, S
+V
+V, S
+V, S
+V, S
+V, S
+S
+V, S
+V
+V, S, M (crushed amber)
+V, S
+V, S
+V, S
+V
+V
+V, S
+V, S
+V, S
+V
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+S
+S
+S
+S
+S
+S
+V, S
+V, S, F (a small silver mirror)
+V, S
+S, M (empty crystal box)
+S, M (empty crystal box)
+S
+S, M (broken glass)
+V, S
+S, DF
+V, S
+S
+V
+S
+S
+S
+S
+V, S
+V, S
+V, S
+V, S
+V, S
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V, S
+V, S
+V, S
+V, S, M (diamonds worth 10,000 gp)
+S
+S
+S
+S
+S
+S
+V
+V, S
+V
+V
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+S, M (blank parchment or magic scroll; see text)
+V, M (a sugar cube)
+V, S
+V, S
+S
+V, S
+S
+S
+S
+S
+S
+V
+V
+V, M (diamond dust worth 250 gp)
+V, S
+V, S
+V, S, M (incense)
+V, S
+V, S
+V, S
+S
+S
+V, S
+V, S
+S
+V
+V
+V
+V, S
+V, S
+V, S
+V
+V, S
+V, S
+V, S
+V, S
+V
+V, S, M (a 3-ft.-diameter circle of powdered silver), DF
+V
+V
+V
+V
+V
+V
+V, M (a bit of dried brain tissue)
+V
+V
+V
+V
+V
+S, F (a silver circlet)
+V, S, M (small bit of gauze)
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, F (a massive, flawless gemstone worth 5,000 gp)
+V, S
+V, S, F (your kapenia)
+V, S, M (a flame of any size)
+V, S, M/DF (a square of red cloth)
+V
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, F (a crow's feather)
+V, S
+V, S, DF
+V, S, DF
+V, S
+V, S
+V, S, F/DF (bit of cloth from a giant's bag)
+V, S, F/DF (bit of cloth from a giant's bag)
+V, S, F/DF (bit of cloth from a giant's bag)
+V, S, DF
+V, S, F (one ioun stone worth at least 1,000 gp)
+V, S, M/DF (a bit of coral)
+V, S
+V, S
+V, S, M (a contract signed in blood)
+V
+V, S
+V, S, M (hollow glass ball or dreamcatcher)
+V, S
+V, S
+S
+V, S
+V, S
+S
+V
+V, S
+V, S
+V, S
+V, S, M (a strip of black cloth)
+V, S
+V, S, M (a small piece of psychoactive cactus)
+V, S, DF
+V, S
+V, S, M (a dose of an addictive drug or substance)
+V
+V, S, M (a dose of pesh worth 15 gp)
+V, S, M (a wooden block carved with a letter)
+V, S, M (a wooden block carved with a letter)
+V
+V
+V, S, M (a lemon peel)
+S, M (a vial of poison)
+V, F (a pocket and a silver button)
+V
+V, S
+V, S, DF/M (a miniature magnifying glass or spectacles)
+V, S, DF
+V, S
+V, S
+V, S
+V, S, DF
+V, S
+V, S, F (the chest and its replica)
+V, S, F (the chest and its replica)
+V, S
+V, S
+V, S
+V, S, M (a pouch of silvered powder worth 25 gp)
+V, S
+V, S, DF
+V, S, M (a fresh handful of the caster's blood)
+V, S, M (a thin metal wire and a vial of acid)
+V, S
+V, S
+V, S, M (a lock of your hair)
+V, S, M (two balls of guano)
+V, S, M (10 gold pieces)
+V, S, M (a fetchling's tooth)
+V, S
+V, S, DF
+V, S, F (a magic rod or staff)
+V, S
+V, S, M (diamonds worth price of arms to be created)
+V, S, M (a handful of earth or stone)
+V, S
+V, S
+V, S, F (an unattended, nonmagical object)
+V, S, F (an unattended, nonmagical object)
+V, S, M (a human hair)
+V, S, M (a human hair)
+V, S, F (a miniature platinum sword worth 250 gp)
+V, S, F (a miniature platinum sword worth 250 gp)
+V, S
+V, S
+V, S
+V, S, M (1 drop of blood from a good outsider or 1 dose of holy water)
+V, S, M (1 drop of blood from a good outsider or 1 dose of holy water)
+V, S, M, DF (oils worth 5,000 gp)
+V, S, M (octopus or squid tentacle)
+V, S, M (a blank scroll or page from a spellbook)
+V, S
+V, S, M (vial of alchemical reagents worth 50 gp)
+V, S, M (a masterwork or magical melee weapon)
+V, S, M (alchemical reagents or herbs worth 1 gp)
+V, S, M (a dinosaur bone and powdered amber worth at least 200 gp)
+V, S, M (a specially prepared glass bottle)
+V, S, F (a magical or masterwork melee weapon)
+V, S, M (a bit of burlap wrapped over a copper coin)
+V, S, M (a self-portrait on a thin sheet of paper)
+V, S, M (a single grape)
+V, S, M (powdered metals with a variable cost, see text)
+V, S
+V, S
+V, S, M (a chess piece)
+V, S, M (a tomato)
+V, S
+V, S
+V, S
+V, S, M (a stone that has never seen sunlight)
+V, S, M (a drow eyelash)
+V, S, M (a half-elf ear)
+V, S, M (a small square of black silk)
+V, S, M (a black crossbow bolt)
+V, S
+V, S
+V, S
+V, S
+V, S
+V
+V, S
+V
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, M (a vial of holy water), DF
+V, S
+V, S, M (a morsel of food the animal likes)
+V, S
+S
+S
+V, S, M (a white feather)
+V, S, M (a turkey bone)
+V, S, M (an unbroken platinum tuning fork worth 100 gp)
+V, S, M (a gold piece)
+V, S
+V, S, M (a complex rune inscribed on a slip of paper that is then placed under your tongue)
+S
+V, S
+V, S
+V
+S
+V, S, M (a gourd)
+V, S, M (herbs used in antitoxins worth 100 gp)
+V, S, M (a ball of bat guano and sulfur)
+V, S, M (a slit purse)
+V, S, M (a tarnished coin)
+V, S, M/DF (a document written in the language of the culture to be emulated)
+V, S, M (a handful of earthworms)
+V, S, F/DF (a scrap of black cloth)
+V, S, M (a scorpion's tail), F (ivory statuette of you worth 1,500 gp)
+V, S
+V, S
+V, S, F (a piece of copper wire)
+V, S, F (a piece of copper wire)
+V
+V, S, F/DF (a medallion)
+V, S, F/DF (a medallion)
+V, S
+V, S, DF
+S, M (tiny silver bell, chime, or gong)
+V, S, M (a pickled herring)
+V, S, M (offerings worth 1,250 gp plus payment), DF
+V, S, M (offerings worth 2,500 gp plus payment), DF
+V, S, M (offerings worth 500 gp plus payment, see text), DF
+S
+V, S, M (lemon juice and a scrap of parchment)
+V, S, M (crushed jade worth 100 gp)
+V, S, M (diamond worth 10,000 gp), DF
+V, S, M (diamond worth 25,000 gp), DF
+V, S, M (a jade sphere worth 500 gp)
+V, S, M (a branding iron and a strip of white silk worth 10 gp)
+V, S, M (a tourmaline costing 50 gp)
+V, S, M (an arrowhead)
+V, S, M (eye drops made with extract of poppy)
+V, S
+V, S
+S, F (a tiny marionette)
+S, F (a tiny marionette)
+V, S, M (a drop of honey)
+V, S, M (a drop of honey)
+V, S, M (a piece of costume jewelry)
+V, S, M (sapphires worth 1,000 gp each)
+V, S, M (thread from a tabard or livery)
+V, S, M (herbs used in antitoxins worth 25 gp)
+V, S, M (a black mask)
+V, S, F (a brass cone or trumpet)
+V, S, F (a woolen handkerchief)
+V, S, M (a drop of paint and a ball of clay)
+S, M (a rose petal)
+V, S
+S, M (herbs used in antitoxins worth 10 gp)
+V, S, F (a doornail, doorknob, or hinge)
+V, S, M (a page torn from a book)
+V, S, M (an adder's fang)
+V, S
+S
+S
+V, S, M (a drop of cod liver oil)
+V, S, M (a snake scale and fang)
+V, S
+V, S, M (a physical connection to the target; see text)
+V, S, M (rare incense and tonics worth 250 gp)
+S
+V, S, M (a black candle), F (a corpse slain no more than 1 day ago per caster level)
+V, S, DF, M (oils worth 2,500 gp and a possession or piece of the body of the creature to resemble)
+V, S, F (a miniature cornerstone carved from precious gemstones worth 500 gp)
+V
+S
+V, S, F/DF (a slender iron rod 1 foot in length)
+V, S
+V, S
+V, S, DF
+V, S, F/DF, M (a drop of black ink)
+V, S, F (a magnifying lens)
+V, S, F (any held object weighing no more than 5 lbs./level)
+V
+V, S, M (jade dust worth 25 gp)
+V, S, M (rare incense and tonics worth 1,000 gp)
+S
+V, S, M (a square of black silk worth 50 gp)
+V, S, DF
+V, S, M (scrap of cobweb)
+V, S
+V, S, M (a quill)
+V, S
+V, S, F (armor worn)
+V, S, F (one suit of armor)
+V, S, F (a shield)
+V, S, DF
+V, S, M (the knucklebone of a dire animal)
+V, S, F (a single gear or bit of clockwork)
+V, S, M (a pinch of fine sand)
+V, S, M (a scrap of a knight's banner)
+V, S, M (a fragment of a destroyed magical item)
+V, S, M (a twisted wire)
+V, S
+V, S
+V, S, M/DF (shards of a canine's fang)
+V, S, M (powered diamond dust worth 10 gp)
+V, S, M (a polished humanoid femur)
+V, S, M/DF (a square of reflective silver worth 100 gp)
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, M (a copper piece)
+V, S, DF/F (a holy symbol of a dead or forgotten deity, or flag of a fallen or forgotten nation)
+V, S, M (butterfly wing)
+V, S, M (a shard of glass)
+V, S, M (dust from the Dimension of Dreams worth 1,250 gp)
+V, S, M (a handful of dandelion seeds)
+V, S, M (a drop of mercury)
+V, S
+V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp)
+V, S, M (a bit of seaweed)
+S, V, M (a shiny bead)
+V, S
+V, S, M (a glob of spiced honey)
+V, S, M (incense worth 250 gp)
+V, S, M (a dose of poison)
+S, V, M (a piece of wool)
+V, S
+V
+V, S
+V, M (a drop of alcohol)
+V, M (a drop of alcohol)
+V, S, M (diamond dust worth 150 gp)
+V
+V, S, F (a gem worth at least 250 gp)
+V, S
+V, S
+V, S
+S, M (a rose)
+S, M (a rose)
+V, S
+V, S
+V, S, M (alchemical reagents worth 1 gp or the value of the created material, whichever is more)
+S, V
+V, S
+V, S
+V, S
+V, S, M/DF (a desiccated fly)
+V, S, DF
+V, S, M (a needle and thread)
+V, S, M (a silver needle costing 100 gp)
+V, S, M (a bent coin)
+S
+S, M (a drop of honey)
+V, S
+V, S
+V, S, F (a book bound in precious metals and treated with rare oils, worth 1,000 gp per HD of the target)
+V, S, M (a drop of mercury)
+V, S, M (a dried drop of blood)
+V, S, M (a scale from a dragon and 250 gp)
+V, S
+V, S, M (a scale of the dragon type you plan to assume)
+V, S, M (a scale of the dragon type you plan to assume)
+V, S, M (a scale of the dragon type you plan to assume)
+V, S, M (a scale of the dragon type you plan to assume)
+V, S, M (a scale of the dragon type you plan to assume)
+V, S, M (a scale of the dragon type you plan to assume)
+V, S, F (a gold dragon scale)
+V, M (a dragon scale)
+V, M (a dragon scale)
+V, S
+V, S, M (rare herbs, incense, and jewels worth 500 gp/the target's character level or HD)
+V, S, M (one Tiny or larger living creature)
+V, S, F (corpse of the deceased creature whose form you plan to assume)
+V, S, F (corpse or likeness of the deceased creature whose form you plan to assume)
+V, S, F (a ceremonial dagger)
+V, S, M (a length of chain doused with fresh blood)
+V, S, F (a small length of crimson string)
+V, S, F (a ceremonial dagger)
+V, S, F (human-shaped fetish made of bones)
+V, S, M (a dirty scrap of a good priest's raiment)
+V, S, M (one Tiny or larger living creature)
+V, S, M/DF (a handwritten sheet of notes)
+V, S, M (see text)
+V, S, M (see text)
+V, S, M (see text)
+V, S, M (see text)
+V, S, M/DF (a dilated human eyeball)
+V, S, F (darkwood carving of a tree worth 15,000 gp)
+V, S, F (jet gemstones worth a total of 10,000 gp)
+V, S, M (the heart of a creature that dwelled in the area and powdered onyx worth 350 gp)
+V, S, M (the heart of a creature that dwelled in the area and powdered onyx worth 700 gp)
+V, S, M (the heart of a creature that dwelled in the area and powdered onyx worth 1,500 gp)
+V, S, M (the heart of a creature that dwelled in the area and powdered onyx worth 4,000 gp)
+V, S, M/DF (a drop of holy water)
+V, S
+V, S, F (a sliver from a guillotine blade)
+V, S, F (a red wax pencil)
+V, S, M (a pinch of black sand)
+V, S, M (an onyx worth 25 gp and a silken string)
+V, S, M (an onyx worth 50 gp for each zombie and a silken string)
+V, S, M (one corpse for every 5-ft. square of the wall), DF
+V, S, M (a patch of white cloth and a patch of black cloth)
+V, S, M (pinch of powdered onyx worth 1 gp)
+V, S, M (pinch of moss or a kudzu leaf)
+V, S, DF
+V, S, DF
+V, S
+V, S, M/DF (a ghoul fang)
+V, S, M/DF (a ghoul fang)
+V, S, M (a melted prism)
+V, S, M (a dead leaf)
+V, S, F/DF (a small lodestone sphere)
+V, S, F (masterwork flute, pipe, or string instrument)
+V, S, M (a flask of ectoplasmic residue)
+V, S, M (an ornate puzzle box worth 1,000 gp and soaked in fresh blood)
+V, S, M/DF (a drop of black ink)
+V, S, M/DF (a shard of a broken mirror)
+V, S, M (an empty vial)
+V, S
+V, S, M (a single white hair)
+V, S, M (crushed rubies worth 2,500 gp and a major organ from the sacrificed target, see text)
+V, S, DF
+V, S, M (a pinch of coal)
+V, S
+V, S, M/DF (a knucklebone)
+V, S, F (an object worth at least 2,000 gp)
+V, S, DF
+V, S, M/DF (a charred animal or humanoid skull fragment)
+V, S, M/DF (a patch of fur)
+V, S
+V, S, M (two doses of oil of taggit worth 180 gp total)
+V, S, M/DF (a pinch of dried skin flakes)
+V, S, M (see text)
+V, S, M (leather strap)
+V, S, M (powdered garnet and bloodstone worth a total of 500 gp)
+V, S, F (a dismembered body part)
+V, S, M (an onyx gem worth at least 25 gp per HD of the undead)
+V, S, M (a handful of bat wings, insects, and rat tails)
+V, S, M (a strip of leather)
+V, S, M (a drop of the caster's blood)
+V, S
+V, S, M/DF (a vial of sea water)
+V, S, M (a broken tool)
+V, S, DF/M (a bloody icicle)
+V, S, DF/M (a hound's fang)
+V, S, M (a live spider)
+V, S, M (a black candle)
+V, S, M (beverage or food item, plus special reagents worth 25 gp)
+V, S
+V, S, DF
+V, S, M (ochre and sulfur, plus powdered gold worth a total of 15,000 gp)
+V, S, F (a forked metal rod attuned to the plane of travel)
+V, S, M (tiny fragment of a mirror)
+V, M (soothing incense worth 600 gp)
+V, M (soothing incense worth 400 gp)
+V, M (soothing incense worth 100 gp)
+V, M (soothing incense worth 100 gp)
+V, M (soothing incense worth 300 gp)
+V, M (soothing incense worth 300 gp)
+V, M (soothing incense worth 200 gp)
+V, M (soothing incense worth 200 gp)
+V, S, M/DF (a broken chain link)
+V, S, M/DF (smelling salts)
+V, S
+V, S, M/DF (a pinch of black sand)
+V, S, M (a drop of ale, mead, or wine)
+V, S
+V
+V, S, F (liquid to be shared)
+V, S, DF
+V, F (gold coin)
+V, S, DF
+V, S, M/DF (a finger bone)
+V, S, M/DF (a pinch of salt)
+V, S
+V, S
+V
+V, S, M (a piece of lodestone)
+V, S, M/DF (insect wing)
+V, S
+S
+V, S, M (a drop of alcoholic liquid)
+V, S
+V, S, F (a set of fine mortician's tools worth 100 gp)
+V, S,F (any slashing weapon or cutting tool)
+V, S, M (a four-leaf clover)
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S
+V, S, M (a valuable gemstone worth at least 250 gp)
+V, S, M (a piece of the creature whose form you want to assume)
+V, S, M (a piece of the creature whose form you want to assume)
+V, S, M (a piece of the creature whose form you want to assume)
+S, M (a sliver of cow's tongue)
+V, S, M (a sharp pebble)
+V, S
+V, S
+V, S, M (one Tiny or larger living creature)
+V, S, M (a golden coin)
+V, S, M (drop of blood)
+V, S, M (crumb of food)
+V, S
+V, S, F (a short segment of a chain)
+V, S
+V, S, M (a dried scab from a diseased creature)
+V, S
+V, S
+V, S
+V, S, DF
+V, S
+V, S, F/DF (a small, straight piece of iron)
+V, S
+V, S
+V, S, M (a copper piece or silver piece)
+V, S, DF
+V, S, M/DF (a smooth stone)
+V, S, M (handful of sand)
+V, S, M/DF (a drop of water)
+V, S, M/DF (a flower petal)
+V, S, DF
+V, S, M/DF (a reed or twig)
+V, S, M/DF (a drop of clear oil)
+V, S, F
+V, S
+V, S, M (fine sand and a vial of ink)
+V, S, M (a platinum piece)
+V, S, M (a pinch of hops)
+V, S, M (a shark tooth and a splinter of a ship's hull)
+V, S, M (a drop of glue)
+V, S, M (small piece of black cloth)
+V, S, M (a scrap of vellum)
+V, S
+V
+V, S, DF
+V, S, DF
+V, S, M (healing herb, alchemical remedy, or potion of a healing spell worth at least 50 gp)
+V, S, DF
+V, S, DF
+V, S, DF
+V, S
+V, S, M (cooked noodles)
+V, S
+V, S
+V, S
+V, S
+V, S, M (a folded-paper mask)
+V, S, M (12 drops of blood), F (a silver circlet worth 500 gp)
+V, S, M/DF (an eagle's eye)
+V, S
+V
+V, S, M
+V, S, M
+V, S
+V, S
+S
+S
+S
+S
+V, S
+V, S
+S
+S
+S
+S
+V, S, DF
+V, S
+V, S
+V, S, M (one pound of unworked stone or wood)
+V, S, M/DF
+V, S, M/DF (see text)
+V, S, M/DF (see text)
+V, S, M/DF (a scale from a lizard)
+V, S, M/DF (mustard seed)
+S
+V, S
+V
+V, S, M (a piece of clay)
+V, S
+V, S, M (a blindfold)
+V, S, F (a jar of earth from the surface)
+S, M/DF (a palm-sized stone)
+V, S, M (500 gp worth of gold dust)
+V, S, M (caphorite shard)
+V, S
+V, S
+V, S
+V, S, M (a pristine geode worth at least 1,000 gp)
+V, S
+V, S, M (a handful of soil that has been in the sun for at least 6 hours)
+V, S, M/DF (miniature cold iron shackle)
+V, S, M/DF (cold iron ingot)
+V, S
+V, S, M/DF (a clump of pollen)
+V, S, M/DF (a small knot of twine)
+V, S, DF
+V, S, M/DF (a three-pointed knot)
+V, S, F (a green, three-pointed knot made of mithral worth 729 gp)
+V, S, M/DF (a three-pointed knot)
+V, S
+V, S
+V, S, M (mithral wishbone worth 100 gp)
+V, S, F (hourglass filled with powdered horacalcum worth 1,500 gp)
+V, S
+V, S, M (a handful of sand)/DF
+V, S, DF
+V, S, M (a piece of glass)/DF
+V, S, M (a piece of glass)/DF
+V, S, M/DF
+V, S, M (ginger root shavings)
+V, S, M (a tiny gong)
+V, S
+V, S, F (a gold and sapphire ring worth 500 gp, which the caster must wear for the spell's duration)
+V, S
+V, S
+V, S
+V, S, M (a scrap of paper bearing a simple sentence written in at least five languages)
+V, S, F (a small square of silk that must be passed over the object that receives the aura)
+V, S
+V, S
+V, S, F (cloak or outer garment)
+V, S, F (a skirt, kilt, or gown)
+V, S, F (scarf)
+V, S, F (cloak)
+V, S, F (cape or loose outer garment)
+V, S, F (footwear)
+V, S
+V, S, M (a bag of air), DF
+V, S, M (a strip of kelp bound to the target), DF
+V, S, M (a needle from a sea urchin)
+V, S, M (a needle from a sea urchin)
+V, S, M (a needle from a sea urchin)
+V, S, M (a bag of air), DF
+V, S, DF
+V, S, M (a bag of air), DF
+V, S, M (slime from a cephalopod)
+V, S, M (a piece of shell)
+V, S, M (a scraping from a hydrothermal vent)
+V, S, DF
+V, S
+V, S, M (a white silk glove worth 25 gp)
+V, S, M (a white silk glove worth 25 gp)
+V, S, M (a white silk glove worth 25 gp)
+V, S, M (a drop of ink)
+V, S, M (pinch of powdered gemstones worth 25 gp)
+V, S, M (vial of paint worth 25 gp)
+V, S, M/DF (a scrap of paper inscribed with the Sihedron rune)
+V, S
+V, S, F (a gold feather worth 100 gp)
+V, S
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, F (a medal from a dead Hellknight or a copy of a Chelish opera script, either worth at least 100 gp)
+V, S, F/DF (an iron badge or medallion)
+V, S
+V, S
+V, S, M (a dandelion stem)
+V, S, F (a silver hand mirror worth 50 gp)
+V, S, F (an eyeless mask), M (diamond dust worth 200 gp)
+V, S, M (offerings worth 100 gp per HD of creature called)
+V, S, M (a fragment of mammoth tusk)
+V, S
+M/F (a jagged shard of bone from a humanoid creature)
+S
+V, S, M (a drop of your blood)
+S, F (a hand mirror stained with a dried drop of blood)
+V, S, M (a work of art bearing your target's likeness worth at least 1,500 gp)
+V, S, DF
+V, S
+V, S
+V, S, F (a storm, either natural or magical)
+V, S, M (a bit of musk from an alpha wolf or another socially dominant animal)
+V, S, DF
+V, S
+V, S, M (a crushed grasshopper)
+V, S, M (a crushed grasshopper)
+V, S, M (a sharp gemstone fragment worth 150 gp)
+V, S, F (a feather, tuft of fur, or similar memento from your target)
+V, S
+S, F (a conch shell)
+V, S, M (a rotting flower)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S
+V, S
+V, S
+V, S, M (a leaf)
+V, S, F (a Y-shaped wooden rod)
+V, S, M (a pinch of iron filings)
+V, S, M (a piece of the creature whose form you plan to assume)
+V, S
+V, S, M (a pinch of sand and a drop of water)
+V, S, M (a bit of the creature whose form you plan to assume)
+V, S, M (a bit of the creature whose form you plan to assume)
+V, S, M (a bit of the creature whose form you plan to assume)
+V, S
+V, S, F (a track or other sign of a creature's passing found with Perception or Survival)
+V, S, F (a rope)
+V, S
+V, S, DF
+V, S, DF
+V, S, DF
+V, S, M (a piece of the creature whose form you plan to grant)
+V, S, M (a piece of the creature whose form you plan to grant)
+V, S
+V, S, DF
+V, S
+V, S, DF
+V, S, F (a nail, a rope, and a short wooden plank)
+V, S
+V, S
+V, S
+V, S
+V, S, M (a handful of crushed glass)
+V, S
+V, S
+V, S, M/DF (ground glass)
+V, S
+V, S
+V, S
+V, S, M/DF (fine copper wire)
+V, S
+V, S
+V, S
