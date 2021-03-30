@@ -1,0 +1,11 @@
+*.exe
+*.o
+*.obj
+*.sln
+*.vs
+*.vcxproj*
+*.pyproj
+
+[Dd]ebug/
+__pycache__/
+Release/
